@@ -1,0 +1,993 @@
+{
+    "timestamp": "2026-02-16 10:39:46",
+    "total_equity": 715085.3671816194,
+    "leaderboard": [
+        {
+            "market": "KRW-ENS",
+            "score": 69.52,
+            "conviction": 0.7215,
+            "opinion": "Buy",
+            "current_price": 10080.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 99.99999998913465,
+                    "mom": 90.46505351008905,
+                    "vol": 0.02756763536919603,
+                    "accel": 87.59091948615304
+                },
+                "rsi": 70.0,
+                "slope": 0.3571428571428488,
+                "bb_width": 0.02859152386429071,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-UNI",
+            "score": 67.11,
+            "conviction": 0.6706,
+            "opinion": "Buy",
+            "current_price": 5225.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 99.99921662852347,
+                    "mom": 88.2247627167323,
+                    "vol": 0.49643999759359325,
+                    "accel": 79.72031822652151
+                },
+                "rsi": 70.83333333333333,
+                "slope": 0.2870813397129153,
+                "bb_width": 0.03140280732571736,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-BSV",
+            "score": 60.61,
+            "conviction": 0.5151,
+            "opinion": "Wait",
+            "current_price": 25300.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 100.0,
+                    "mom": 86.94383383630776,
+                    "vol": 0.15229848884216854,
+                    "accel": 55.326258040445175
+                },
+                "rsi": 69.52380952380952,
+                "slope": 0.15810276679840463,
+                "bb_width": 0.029461880677847944,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-BCH",
+            "score": 60.41,
+            "conviction": 0.5103,
+            "opinion": "Wait",
+            "current_price": 828500.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 100.0,
+                    "mom": 85.19528019683106,
+                    "vol": 0.13533449312455098,
+                    "accel": 56.31365167356247
+                },
+                "rsi": 60.0,
+                "slope": 0.11466505733251683,
+                "bb_width": 0.010920484892019766,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-BTC",
+            "score": 57.73,
+            "conviction": 0.4434,
+            "opinion": "Wait",
+            "current_price": 102153000.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 100.0,
+                    "mom": 57.659405441254854,
+                    "vol": 57.4679192425896,
+                    "accel": 40.606412065449135
+                },
+                "rsi": 49.53998584571833,
+                "slope": 0.00450304934753691,
+                "bb_width": 0.011996222658074936,
+                "dna": {
+                    "trend": 0.010004932796866173,
+                    "mom": 0.010004932796866173,
+                    "vol": 0.9699852016094015,
+                    "accel": 0.010004932796866173
+                }
+            }
+        },
+        {
+            "market": "KRW-XRP",
+            "score": 55.12,
+            "conviction": 0.3803,
+            "opinion": "Sell",
+            "current_price": 2193.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 11.426382207261462,
+                    "mom": 58.286819362617656,
+                    "vol": 0.0631193799738972,
+                    "accel": 54.00646483634032
+                },
+                "rsi": 52.94117647058823,
+                "slope": 0.022799817601452145,
+                "bb_width": 0.022071484062058038,
+                "dna": {
+                    "trend": 0.013240269203181802,
+                    "mom": 0.9349544336576138,
+                    "vol": 0.04147178120150586,
+                    "accel": 0.010333515937698438
+                }
+            }
+        },
+        {
+            "market": "KRW-MON",
+            "score": 52.38,
+            "conviction": 0.3181,
+            "opinion": "Sell",
+            "current_price": 35.1,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 78.9725588339207,
+                    "mom": 42.27613839121767,
+                    "vol": 1.1053282276596001,
+                    "accel": 87.1520503663507
+                },
+                "rsi": 57.407407407407455,
+                "slope": 0.19943019943019558,
+                "bb_width": 0.10805661669508997,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-LINK",
+            "score": 50.84,
+            "conviction": 0.2859,
+            "opinion": "Sell",
+            "current_price": 13010.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 99.99008615547295,
+                    "mom": 52.47812660733696,
+                    "vol": 0.0,
+                    "accel": 50.90986123568615
+                },
+                "rsi": 55.55555555555556,
+                "slope": -1.733714379856486e-14,
+                "bb_width": 0.02224615242198946,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-BERA",
+            "score": 50.72,
+            "conviction": 0.2833,
+            "opinion": "Sell",
+            "current_price": 957.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 10.304981747650487,
+                    "mom": 11.728235612969087,
+                    "vol": 0.0,
+                    "accel": 53.23442809313278
+                },
+                "rsi": 32.0,
+                "slope": 0.09404388714732106,
+                "bb_width": 0.05164408237876926,
+                "dna": {
+                    "trend": 0.010103938850017896,
+                    "mom": 0.010059163576593845,
+                    "vol": 0.03127800109814637,
+                    "accel": 0.9485588964752419
+                }
+            }
+        },
+        {
+            "market": "KRW-STORJ",
+            "score": 45.91,
+            "conviction": 0.1964,
+            "opinion": "Sell",
+            "current_price": 170.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 99.9659356162257,
+                    "mom": 82.73186701263103,
+                    "vol": 0.5453238192485602,
+                    "accel": 0.40701377158960156
+                },
+                "rsi": 79.41176470588235,
+                "slope": -0.6470588235294199,
+                "bb_width": 0.267460067527321,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-TRUMP",
+            "score": 45.45,
+            "conviction": 0.1893,
+            "opinion": "Sell",
+            "current_price": 5175.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 99.99999993956467,
+                    "mom": 57.248695621485425,
+                    "vol": 0.9948293085164474,
+                    "accel": 23.571298331462977
+                },
+                "rsi": 65.30612244897961,
+                "slope": -0.17391304347826622,
+                "bb_width": 0.06380976642944808,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-SUPER",
+            "score": 44.35,
+            "conviction": 0.173,
+            "opinion": "Sell",
+            "current_price": 203.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 99.8476540568908,
+                    "mom": 76.10463946973478,
+                    "vol": 1.397813794898687,
+                    "accel": 0.06174864711345067
+                },
+                "rsi": 74.35897435897436,
+                "slope": -0.8374384236453241,
+                "bb_width": 0.19982726537746506,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-HBAR",
+            "score": 43.43,
+            "conviction": 0.1602,
+            "opinion": "Sell",
+            "current_price": 150.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 74.0993092552562,
+                    "mom": 75.60146147984656,
+                    "vol": 0.029775098585630308,
+                    "accel": 23.98646627722992
+                },
+                "rsi": 64.28571428571428,
+                "slope": 0.13333333333332176,
+                "bb_width": 0.0466040283488142,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-ONDO",
+            "score": 41.8,
+            "conviction": 0.1394,
+            "opinion": "Sell",
+            "current_price": 410.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 58.0542039209308,
+                    "mom": 65.44339703863906,
+                    "vol": 0.07102703790244307,
+                    "accel": 43.63232549648845
+                },
+                "rsi": 56.52173913043478,
+                "slope": 0.024390243902430178,
+                "bb_width": 0.021892319364637737,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-BIRB",
+            "score": 31.64,
+            "conviction": 0.0554,
+            "opinion": "Sell",
+            "current_price": 295.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 17.453743784726694,
+                    "mom": 24.50850131323716,
+                    "vol": 0.0,
+                    "accel": 84.59023224910236
+                },
+                "rsi": 39.99999999999999,
+                "slope": 0.2033898305084528,
+                "bb_width": 0.03283918315117909,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-SUI",
+            "score": 30.66,
+            "conviction": 0.0505,
+            "opinion": "Sell",
+            "current_price": 1442.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 40.51106207453513,
+                    "mom": 40.214995120011466,
+                    "vol": 0.02658770952428885,
+                    "accel": 41.87754694001746
+                },
+                "rsi": 48.64864864864865,
+                "slope": -0.006934812760064102,
+                "bb_width": 0.014609704583381043,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-MOODENG",
+            "score": 24.48,
+            "conviction": 0.0279,
+            "opinion": "Sell",
+            "current_price": 81.3,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 23.6319837042555,
+                    "mom": 30.935422276309087,
+                    "vol": 0.22401323964650677,
+                    "accel": 70.08822224286652
+                },
+                "rsi": 47.82608695652172,
+                "slope": 0.01230012300122856,
+                "bb_width": 0.018906895313256466,
+                "dna": {
+                    "trend": 0.9117126822866206,
+                    "mom": 0.0624859082790221,
+                    "vol": 0.01157698588441375,
+                    "accel": 0.014224423549943598
+                }
+            }
+        },
+        {
+            "market": "KRW-BOUNTY",
+            "score": 24.12,
+            "conviction": 0.0269,
+            "opinion": "Sell",
+            "current_price": 33.6,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 13.632146753387705,
+                    "mom": 15.307707975869125,
+                    "vol": 9.906971607066064,
+                    "accel": 57.63538229388991
+                },
+                "rsi": 39.06249999999998,
+                "slope": -0.3273809523809577,
+                "bb_width": 0.058068041861092275,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-ENSO",
+            "score": 23.53,
+            "conviction": 0.0254,
+            "opinion": "Sell",
+            "current_price": 1549.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 0.04917036966628956,
+                    "mom": 12.986262810587299,
+                    "vol": 0.0,
+                    "accel": 81.07709669534466
+                },
+                "rsi": 36.95652173913044,
+                "slope": -0.045190445448685335,
+                "bb_width": 0.04708997218803915,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-WLFI",
+            "score": 22.0,
+            "conviction": 0.0219,
+            "opinion": "Sell",
+            "current_price": 149.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 31.317813259141154,
+                    "mom": 19.118824354155798,
+                    "vol": 0.0,
+                    "accel": 37.54400432541492
+                },
+                "rsi": 46.15384615384615,
+                "slope": -0.1342281879194685,
+                "bb_width": 0.021694433123474802,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-SENT",
+            "score": 20.88,
+            "conviction": 0.0196,
+            "opinion": "Sell",
+            "current_price": 32.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 18.16800256437478,
+                    "mom": 12.654947143779488,
+                    "vol": 0.0,
+                    "accel": 52.68568902703331
+                },
+                "rsi": 36.3636363636363,
+                "slope": -0.21875000000000783,
+                "bb_width": 0.038128203626057094,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-COMP",
+            "score": 18.43,
+            "conviction": 0.0154,
+            "opinion": "Sell",
+            "current_price": 30030.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 2.121817511308747e-63,
+                    "mom": 12.229230760083535,
+                    "vol": 53.67280985837325,
+                    "accel": 38.4719441333324
+                },
+                "rsi": 33.73015873015872,
+                "slope": -0.039960039960050805,
+                "bb_width": 0.04588720425891154,
+                "dna": {
+                    "trend": 0.3667560044314454,
+                    "mom": 0.3031442382752075,
+                    "vol": 0.09388528621938971,
+                    "accel": 0.23621447107395732
+                }
+            }
+        },
+        {
+            "market": "KRW-MOVE",
+            "score": 18.3,
+            "conviction": 0.0152,
+            "opinion": "Sell",
+            "current_price": 37.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 45.09597608211517,
+                    "mom": 21.806302610652416,
+                    "vol": 1.2041851283893228,
+                    "accel": 28.6899346084661
+                },
+                "rsi": 48.5981308411215,
+                "slope": -0.13513513513514047,
+                "bb_width": 0.1148548457810258,
+                "dna": {
+                    "trend": 0.08700991431939603,
+                    "mom": 0.2753171772151395,
+                    "vol": 0.4145029591851722,
+                    "accel": 0.22316994928029224
+                }
+            }
+        },
+        {
+            "market": "KRW-TOKAMAK",
+            "score": 17.03,
+            "conviction": 0.0134,
+            "opinion": "Sell",
+            "current_price": 807.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 12.579890647097084,
+                    "mom": 18.34906954697369,
+                    "vol": 0.059864459940435134,
+                    "accel": 34.917120106802244
+                },
+                "rsi": 40.42553191489362,
+                "slope": -0.061957868649325315,
+                "bb_width": 0.02790231703167566,
+                "dna": {
+                    "trend": 0.2368650118335879,
+                    "mom": 0.275121613967969,
+                    "vol": 0.2307325226159401,
+                    "accel": 0.25728085158250297
+                }
+            }
+        },
+        {
+            "market": "KRW-ME",
+            "score": 15.71,
+            "conviction": 0.0118,
+            "opinion": "Sell",
+            "current_price": 206.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 17.939004477449874,
+                    "mom": 22.270013882530883,
+                    "vol": 0.0,
+                    "accel": 22.650444747553827
+                },
+                "rsi": 37.5,
+                "slope": -0.145631067961183,
+                "bb_width": 0.015177756635761841,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-PENGU",
+            "score": 14.77,
+            "conviction": 0.0107,
+            "opinion": "Sell",
+            "current_price": 10.4,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 29.41977752712836,
+                    "mom": 29.052056553535095,
+                    "vol": 0.11012860909789246,
+                    "accel": 0.5018714653084505
+                },
+                "rsi": 57.14285714285714,
+                "slope": -0.38461538461538775,
+                "bb_width": 0.03620690154744962,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-CTC",
+            "score": 11.61,
+            "conviction": 0.0079,
+            "opinion": "Sell",
+            "current_price": 259.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 10.855086790772647,
+                    "mom": 19.88883897708871,
+                    "vol": 16.740222544827574,
+                    "accel": 0.023206571759672563
+                },
+                "rsi": 45.283018867924525,
+                "slope": -1.5444015444015589,
+                "bb_width": 0.08262252464206202,
+                "dna": {
+                    "trend": 0.01012354633575639,
+                    "mom": 0.01012354633575639,
+                    "vol": 0.6748097427485266,
+                    "accel": 0.30494316457996057
+                }
+            }
+        },
+        {
+            "market": "KRW-DEEP",
+            "score": 10.58,
+            "conviction": 0.0071,
+            "opinion": "Sell",
+            "current_price": 42.3,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 18.237111713604406,
+                    "mom": 12.176658294236093,
+                    "vol": 0.5020133835621732,
+                    "accel": 11.389870575278515
+                },
+                "rsi": 35.48387096774188,
+                "slope": -0.26004728132388333,
+                "bb_width": 0.02678776693049158,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-CBK",
+            "score": 6.89,
+            "conviction": 0.0049,
+            "opinion": "Sell",
+            "current_price": 407.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 4.073987792791358,
+                    "mom": 18.308881180242654,
+                    "vol": 2.414079728746924,
+                    "accel": 2.7664058287896736
+                },
+                "rsi": 34.48275862068965,
+                "slope": -0.14742014742016032,
+                "bb_width": 0.06457818195670573,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-ZRO",
+            "score": 6.42,
+            "conviction": 0.0047,
+            "opinion": "Sell",
+            "current_price": 2549.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 5.975761779720993e-05,
+                    "mom": 13.081488469046555,
+                    "vol": 0.8750067567834745,
+                    "accel": 11.73033836561409
+                },
+                "rsi": 31.41025641025641,
+                "slope": -0.2942330325617961,
+                "bb_width": 0.04068038021848047,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-VIRTUAL",
+            "score": 5.23,
+            "conviction": 0.0042,
+            "opinion": "Sell",
+            "current_price": 935.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 30.41433881596503,
+                    "mom": 50.50843053497298,
+                    "vol": 0.06379736126166675,
+                    "accel": 34.14745530112195
+                },
+                "rsi": 48.93617021276596,
+                "slope": 0.05347593582887359,
+                "bb_width": 0.015250171258581429,
+                "dna": {
+                    "trend": 0.0972169017915826,
+                    "mom": 0.03438272166103241,
+                    "vol": 0.8541586957735245,
+                    "accel": 0.014241680773860314
+                }
+            }
+        },
+        {
+            "market": "KRW-0G",
+            "score": 4.33,
+            "conviction": 0.0038,
+            "opinion": "Sell",
+            "current_price": 957.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 19.819990119312912,
+                    "mom": 27.6306668718095,
+                    "vol": 0.21586184511731102,
+                    "accel": 68.11664939834189
+                },
+                "rsi": 46.09375,
+                "slope": 0.2507836990595449,
+                "bb_width": 0.04643335705600989,
+                "dna": {
+                    "trend": 0.07287271987237663,
+                    "mom": 0.06688245649574287,
+                    "vol": 0.8501836766315803,
+                    "accel": 0.010061147000300141
+                }
+            }
+        },
+        {
+            "market": "KRW-AXS",
+            "score": 3.58,
+            "conviction": 0.0035,
+            "opinion": "Sell",
+            "current_price": 2062.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 17.043730063321817,
+                    "mom": 25.9961580323038,
+                    "vol": 0.013662960776764065,
+                    "accel": 56.32216405952821
+                },
+                "rsi": 43.82022471910112,
+                "slope": 0.009699321047520418,
+                "bb_width": 0.021317473547046023,
+                "dna": {
+                    "trend": 0.01611504941506259,
+                    "mom": 0.014232354473582056,
+                    "vol": 0.9177428882897839,
+                    "accel": 0.05190970782157151
+                }
+            }
+        },
+        {
+            "market": "KRW-AQT",
+            "score": 2.96,
+            "conviction": 0.0033,
+            "opinion": "Sell",
+            "current_price": 818.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 0.05513324365452001,
+                    "mom": 9.011811238780302,
+                    "vol": 1.8731176700600471,
+                    "accel": 0.8850206553856235
+                },
+                "rsi": 28.235294117647058,
+                "slope": -0.48899755501224446,
+                "bb_width": 0.0753210859737831,
+                "dna": {
+                    "trend": 0.25,
+                    "mom": 0.25,
+                    "vol": 0.25,
+                    "accel": 0.25
+                }
+            }
+        },
+        {
+            "market": "KRW-OM",
+            "score": 2.22,
+            "conviction": 0.0031,
+            "opinion": "Sell",
+            "current_price": 91.5,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 95.90673252021321,
+                    "mom": 78.37866096275086,
+                    "vol": 0.48821410871425575,
+                    "accel": 0.361534929695549
+                },
+                "rsi": 71.63120567375886,
+                "slope": -0.0983606557377102,
+                "bb_width": 0.14557150469136867,
+                "dna": {
+                    "trend": 0.010000747582330657,
+                    "mom": 0.010000747582330657,
+                    "vol": 0.969997757253008,
+                    "accel": 0.010000747582330657
+                }
+            }
+        },
+        {
+            "market": "KRW-USDT",
+            "score": 2.04,
+            "conviction": 0.003,
+            "opinion": "Sell",
+            "current_price": 1486.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 73.23932068850718,
+                    "mom": 82.16809438923075,
+                    "vol": 0.03987941815912327,
+                    "accel": 44.25495966059942
+                },
+                "rsi": 55.55555555555556,
+                "slope": 0.026917900403764048,
+                "bb_width": 0.005055389213103473,
+                "dna": {
+                    "trend": 0.010000013647751466,
+                    "mom": 0.010000013647751466,
+                    "vol": 0.9699999590567456,
+                    "accel": 0.010000013647751466
+                }
+            }
+        },
+        {
+            "market": "KRW-SOL",
+            "score": 1.62,
+            "conviction": 0.0029,
+            "opinion": "Sell",
+            "current_price": 127900.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 2.1907637251289813e-10,
+                    "mom": 56.90013325681906,
+                    "vol": 0.12465329729099335,
+                    "accel": 52.179836925241055
+                },
+                "rsi": 50.0,
+                "slope": 0.08600469116496426,
+                "bb_width": 0.013606691605027322,
+                "dna": {
+                    "trend": 0.013398357390919284,
+                    "mom": 0.010005179493676684,
+                    "vol": 0.9665912836217273,
+                    "accel": 0.010005179493676684
+                }
+            }
+        },
+        {
+            "market": "KRW-PYTH",
+            "score": 1.44,
+            "conviction": 0.0029,
+            "opinion": "Sell",
+            "current_price": 84.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 72.17351374734719,
+                    "mom": 51.34998046266437,
+                    "vol": 0.14023894953816515,
+                    "accel": 2.2195232415552755
+                },
+                "rsi": 58.0246913580247,
+                "slope": -0.5238095238095348,
+                "bb_width": 0.04874919668147514,
+                "dna": {
+                    "trend": 0.010382489961543217,
+                    "mom": 0.010382489961543217,
+                    "vol": 0.9688525301153703,
+                    "accel": 0.010382489961543217
+                }
+            }
+        },
+        {
+            "market": "KRW-IP",
+            "score": 0.94,
+            "conviction": 0.0027,
+            "opinion": "Sell",
+            "current_price": 1651.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 12.73284656020513,
+                    "mom": 17.298768288027695,
+                    "vol": 0.02294868244605199,
+                    "accel": 60.77998499622797
+                },
+                "rsi": 40.25974025974026,
+                "slope": -0.03028467595397395,
+                "bb_width": 0.01914309200500969,
+                "dna": {
+                    "trend": 0.010083188488758523,
+                    "mom": 0.010083188488758523,
+                    "vol": 0.9697504345337244,
+                    "accel": 0.010083188488758523
+                }
+            }
+        },
+        {
+            "market": "KRW-KITE",
+            "score": 0.4,
+            "conviction": 0.0026,
+            "opinion": "Sell",
+            "current_price": 303.0,
+            "snapshot": {
+                "component_scores": {
+                    "trend": 0.4473996886195099,
+                    "mom": 14.91768943211035,
+                    "vol": 0.0,
+                    "accel": 0.32010964158304
+                },
+                "rsi": 33.92857142857143,
+                "slope": -1.122112211221125,
+                "bb_width": 0.0844870371653808,
+                "dna": {
+                    "trend": 0.010618583207277573,
+                    "mom": 0.03482990323549691,
+                    "vol": 0.9446397246319606,
+                    "accel": 0.009911788925265001
+                }
+            }
+        }
+    ],
+    "portfolio": {
+        "krw": 287172.23660749546,
+        "coins": {
+            "KRW-ENS": {
+                "qty": 21.419761408273516,
+                "avg_price": 10096.063490002989,
+                "current_price": 10010,
+                "net_value_krw": 214304.6057909695,
+                "roi": -0.8524460061905135,
+                "target_weight": 0.3
+            },
+            "KRW-UNI": {
+                "qty": 41.29765844915781,
+                "avg_price": 5237.357905439012,
+                "current_price": 5175,
+                "net_value_krw": 213608.52478315448,
+                "roi": -1.1906367020335418,
+                "target_weight": 0.3
+            }
+        }
+    },
+    "logs": [
+        "[2026-02-16 10:39:36] [INFO] === Alpha-Pro V36.0 Virtual AI Evolution ===",
+        "[2026-02-16 10:39:40] [EVOLVE] Virtual Learning: 10 predictions evaluated and DNA updated.",
+        "[2026-02-16 10:39:41] [DEBUG] KRW-UNI | Conv:0.67 | Score:67.1 (T100/M88/V0/A80)",
+        "[2026-02-16 10:39:43] [DEBUG] KRW-ENS | Conv:0.72 | Score:69.5 (T100/M90/V0/A88)"
+    ]
+}

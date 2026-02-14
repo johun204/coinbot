@@ -1,0 +1,6706 @@
+[
+    {
+        "time": "2026-02-15 00:06:47",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 86.9,
+        "amount": 218394.066389958,
+        "conviction": 0.7891
+    },
+    {
+        "time": "2026-02-15 00:06:47",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 152.0,
+        "amount": 211253.56846331304,
+        "conviction": 0.7633
+    },
+    {
+        "time": "2026-02-15 00:06:47",
+        "type": "BUY",
+        "market": "KRW-AXS",
+        "price": 2222.0,
+        "amount": 199435.7676240471,
+        "conviction": 0.7206
+    },
+    {
+        "time": "2026-02-15 00:06:48",
+        "type": "BUY",
+        "market": "KRW-ETC",
+        "price": 13070.0,
+        "amount": 185846.6803935459,
+        "conviction": 0.6715
+    },
+    {
+        "time": "2026-02-15 00:06:48",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5235.0,
+        "amount": 183310.82755147127,
+        "conviction": 0.6705
+    },
+    {
+        "time": "2026-02-15 00:15:39",
+        "type": "SELL",
+        "market": "KRW-AXS",
+        "price": 2202,
+        "amount": 28070.35036686722,
+        "roi": -0.9000900090009001
+    },
+    {
+        "time": "2026-02-15 00:18:41",
+        "type": "SELL",
+        "market": "KRW-AXS",
+        "price": 2206,
+        "amount": 169680.44474051756,
+        "roi": -0.7200720072007201
+    },
+    {
+        "time": "2026-02-15 00:21:40",
+        "type": "SELL",
+        "market": "KRW-ETC",
+        "price": 13060,
+        "amount": 185518.87538378782,
+        "roi": -0.07651109410864575
+    },
+    {
+        "time": "2026-02-15 00:21:41",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 152.00000000000003,
+        "amount": 40158.606705198246,
+        "conviction": 0.6538
+    },
+    {
+        "time": "2026-02-15 00:21:41",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5255.0,
+        "amount": 55058.02475950237,
+        "conviction": 0.6247
+    },
+    {
+        "time": "2026-02-15 00:24:38",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 151,
+        "amount": 44552.20478569593,
+        "roi": -0.6578947368421239
+    },
+    {
+        "time": "2026-02-15 00:24:38",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5265,
+        "amount": 43450.80814219848,
+        "roi": 0.48465413239796595
+    },
+    {
+        "time": "2026-02-15 00:24:39",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 10.5,
+        "amount": 182536.5065943762,
+        "conviction": 0.5817
+    },
+    {
+        "time": "2026-02-15 00:30:38",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 151,
+        "amount": 204956.3095835667,
+        "roi": -0.6578947368421239
+    },
+    {
+        "time": "2026-02-15 00:30:39",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 10.4,
+        "amount": 180617.35596461027,
+        "roi": -0.952380952380949
+    },
+    {
+        "time": "2026-02-15 00:30:39",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 89.3,
+        "amount": 76055.05349502827,
+        "conviction": 0.7565
+    },
+    {
+        "time": "2026-02-15 00:30:39",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5265.0,
+        "amount": 104571.8903604726,
+        "conviction": 0.5992
+    },
+    {
+        "time": "2026-02-15 00:30:39",
+        "type": "BUY",
+        "market": "KRW-ZRO",
+        "price": 2845.0,
+        "amount": 300229.4001094146,
+        "conviction": 0.5835
+    },
+    {
+        "time": "2026-02-15 00:33:38",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 88.7,
+        "amount": 298163.49661157106,
+        "roi": 1.3627785272681843
+    },
+    {
+        "time": "2026-02-15 00:33:38",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5265,
+        "amount": 74531.87229175048,
+        "roi": 0.31552300254143073
+    },
+    {
+        "time": "2026-02-15 00:33:38",
+        "type": "SELL",
+        "market": "KRW-ZRO",
+        "price": 2843,
+        "amount": 74382.48565197365,
+        "roi": -0.070298769771529
+    },
+    {
+        "time": "2026-02-15 00:33:39",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 36.6,
+        "amount": 242126.53661322914,
+        "conviction": 0.6139
+    },
+    {
+        "time": "2026-02-15 00:36:41",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5270,
+        "amount": 225983.80857591954,
+        "roi": 0.4107894061525812
+    },
+    {
+        "time": "2026-02-15 00:36:42",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 36.5,
+        "amount": 58085.76415512361,
+        "conviction": 0.7054
+    },
+    {
+        "time": "2026-02-15 00:36:42",
+        "type": "BUY",
+        "market": "KRW-ZRO",
+        "price": 2836.0,
+        "amount": 47090.45918426069,
+        "conviction": 0.5602
+    },
+    {
+        "time": "2026-02-15 00:45:41",
+        "type": "SELL",
+        "market": "KRW-ZRO",
+        "price": 2820,
+        "amount": 270290.995273821,
+        "roi": -0.8244377458669867
+    },
+    {
+        "time": "2026-02-15 00:45:41",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 36.8,
+        "amount": 301710.95195357647,
+        "roi": 0.5997466004925557
+    },
+    {
+        "time": "2026-02-15 00:45:42",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 90.7,
+        "amount": 299476.70559844567,
+        "conviction": 0.8342
+    },
+    {
+        "time": "2026-02-15 00:48:39",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 36.8,
+        "amount": 299980.8962598407,
+        "conviction": 0.7378
+    },
+    {
+        "time": "2026-02-15 00:51:41",
+        "type": "BUY",
+        "market": "KRW-LINEA",
+        "price": 5.79,
+        "amount": 264736.96926120477,
+        "conviction": 0.6068
+    },
+    {
+        "time": "2026-02-15 00:54:40",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 91.3,
+        "amount": 301156.5012370058,
+        "roi": 0.6615214994487257
+    },
+    {
+        "time": "2026-02-15 00:57:39",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 89.8,
+        "amount": 298237.59014721314,
+        "conviction": 0.9512
+    },
+    {
+        "time": "2026-02-15 01:03:41",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 36.2,
+        "amount": 99394.22783174571,
+        "roi": -1.6304347826086802
+    },
+    {
+        "time": "2026-02-15 01:03:41",
+        "type": "SELL",
+        "market": "KRW-LINEA",
+        "price": 5.82,
+        "amount": 70441.95460476655,
+        "roi": 0.5181347150258956
+    },
+    {
+        "time": "2026-02-15 01:03:41",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89,
+        "amount": 29985.06977480422,
+        "roi": -0.8908685968819567
+    },
+    {
+        "time": "2026-02-15 01:03:42",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5264.999999999999,
+        "amount": 171598.46774909666,
+        "conviction": 0.5935
+    },
+    {
+        "time": "2026-02-15 01:03:42",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 10.7,
+        "amount": 164543.70348272615,
+        "conviction": 0.5691
+    },
+    {
+        "time": "2026-02-15 01:06:42",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 36.2,
+        "amount": 195400.73312212335,
+        "roi": -1.6304347826086802
+    },
+    {
+        "time": "2026-02-15 01:06:42",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89,
+        "amount": 27368.472945645415,
+        "roi": -0.8908685968819567
+    },
+    {
+        "time": "2026-02-15 01:06:42",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 10.7,
+        "amount": 35414.13660142711,
+        "conviction": 0.7248
+    },
+    {
+        "time": "2026-02-15 01:06:42",
+        "type": "BUY",
+        "market": "KRW-PENDLE",
+        "price": 1890.0,
+        "amount": 179284.34013828344,
+        "conviction": 0.6549
+    },
+    {
+        "time": "2026-02-15 01:15:41",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5240,
+        "amount": 170612.9618988728,
+        "roi": -0.4748338081671243
+    },
+    {
+        "time": "2026-02-15 01:15:41",
+        "type": "SELL",
+        "market": "KRW-PENDLE",
+        "price": 1882,
+        "amount": 178347.02837796937,
+        "roi": -0.4232804232804233
+    },
+    {
+        "time": "2026-02-15 01:15:41",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 86.3,
+        "amount": 182504.9377690618,
+        "conviction": 0.6375
+    },
+    {
+        "time": "2026-02-15 01:15:41",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 417.0,
+        "amount": 169822.63385746747,
+        "conviction": 0.5932
+    },
+    {
+        "time": "2026-02-15 01:18:39",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 415,
+        "amount": 168839.21313761247,
+        "roi": -0.4796163069544364
+    },
+    {
+        "time": "2026-02-15 01:18:40",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 519.0,
+        "amount": 171382.84805589807,
+        "conviction": 0.6178
+    },
+    {
+        "time": "2026-02-15 01:21:43",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 87,
+        "amount": 183801.38576268556,
+        "roi": 0.8111239860950206
+    },
+    {
+        "time": "2026-02-15 01:24:41",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89.7,
+        "amount": 239803.0824188814,
+        "roi": -0.11135857461023865
+    },
+    {
+        "time": "2026-02-15 01:30:40",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 91.4,
+        "amount": 239815.87731378956,
+        "conviction": 0.8888
+    },
+    {
+        "time": "2026-02-15 01:30:41",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 87.10000000000001,
+        "amount": 184339.37211045314,
+        "conviction": 0.7722
+    },
+    {
+        "time": "2026-02-15 01:33:43",
+        "type": "SELL",
+        "market": "KRW-TIA",
+        "price": 516,
+        "amount": 170221.88871276306,
+        "roi": -0.5780346820809248
+    },
+    {
+        "time": "2026-02-15 01:33:43",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 86.1,
+        "amount": 71943.44141982698,
+        "conviction": 0.7776
+    },
+    {
+        "time": "2026-02-15 01:33:44",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 10.7,
+        "amount": 25786.93967589978,
+        "conviction": 0.6855
+    },
+    {
+        "time": "2026-02-15 01:36:42",
+        "type": "SELL",
+        "market": "KRW-LINEA",
+        "price": 5.88,
+        "amount": 197415.17366977406,
+        "roi": 1.5544041450777022
+    },
+    {
+        "time": "2026-02-15 01:36:42",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 91.4,
+        "amount": 239576.18128449045,
+        "roi": -0.10940919037200057
+    },
+    {
+        "time": "2026-02-15 01:39:38",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 90.8,
+        "amount": 269065.0608423363,
+        "conviction": 0.8099
+    },
+    {
+        "time": "2026-02-15 01:45:41",
+        "type": "BUY",
+        "market": "KRW-LINEA",
+        "price": 5.87,
+        "amount": 234183.4447175732,
+        "conviction": 0.7037
+    },
+    {
+        "time": "2026-02-15 01:48:42",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 10.8,
+        "amount": 30873.537651979135,
+        "roi": 0.9345794392523331
+    },
+    {
+        "time": "2026-02-15 01:48:43",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 85.6,
+        "amount": 45466.882890329754,
+        "roi": -1.401735068689668
+    },
+    {
+        "time": "2026-02-15 01:48:43",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89.4,
+        "amount": 46405.07842702938,
+        "roi": -1.5418502202643232
+    },
+    {
+        "time": "2026-02-15 01:48:43",
+        "type": "SELL",
+        "market": "KRW-LINEA",
+        "price": 5.82,
+        "amount": 37430.64847507263,
+        "roi": -0.8517887563884127
+    },
+    {
+        "time": "2026-02-15 01:48:43",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 522.0,
+        "amount": 167854.8970149346,
+        "conviction": 0.6023
+    },
+    {
+        "time": "2026-02-15 01:51:41",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 523.0,
+        "amount": 321.48212247086997,
+        "conviction": 0.6835
+    },
+    {
+        "time": "2026-02-15 01:54:43",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 88.8,
+        "amount": 216781.87569017822,
+        "roi": -2.2026431718061827
+    },
+    {
+        "time": "2026-02-15 01:54:43",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 524.0,
+        "amount": 28634.701382193296,
+        "conviction": 0.6835
+    },
+    {
+        "time": "2026-02-15 02:00:41",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 84.8,
+        "amount": 205036.65240076004,
+        "roi": -2.438399069135678
+    },
+    {
+        "time": "2026-02-15 02:00:41",
+        "type": "SELL",
+        "market": "KRW-LINEA",
+        "price": 5.8,
+        "amount": 193857.50118890646,
+        "roi": -1.1925042589437866
+    },
+    {
+        "time": "2026-02-15 02:00:42",
+        "type": "BUY",
+        "market": "KRW-WLFI",
+        "price": 160.0,
+        "amount": 200461.8907765608,
+        "conviction": 0.6598
+    },
+    {
+        "time": "2026-02-15 02:00:42",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5330.0,
+        "amount": 178039.8120299058,
+        "conviction": 0.586
+    },
+    {
+        "time": "2026-02-15 02:00:42",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 5.76,
+        "amount": 170444.2569357737,
+        "conviction": 0.561
+    },
+    {
+        "time": "2026-02-15 02:03:40",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 10.9,
+        "amount": 198575.05522868776,
+        "roi": 1.8691588785046662
+    },
+    {
+        "time": "2026-02-15 02:03:40",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.75,
+        "amount": 169978.28345237253,
+        "roi": -0.1736111111111074
+    },
+    {
+        "time": "2026-02-15 02:03:40",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 155.0,
+        "amount": 185841.53822044423,
+        "conviction": 0.6691
+    },
+    {
+        "time": "2026-02-15 02:06:41",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.0,
+        "amount": 197153.99939249834,
+        "conviction": 0.7643
+    },
+    {
+        "time": "2026-02-15 02:09:40",
+        "type": "SELL",
+        "market": "KRW-TIA",
+        "price": 524,
+        "amount": 197257.46127960534,
+        "roi": 0.3270836670660654
+    },
+    {
+        "time": "2026-02-15 02:09:41",
+        "type": "BUY",
+        "market": "KRW-PENDLE",
+        "price": 1934.0,
+        "amount": 201872.78228584887,
+        "conviction": 0.7952
+    },
+    {
+        "time": "2026-02-15 02:21:40",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 155,
+        "amount": 185655.78955655574,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 02:21:40",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5425.0,
+        "amount": 21027.8481527415,
+        "conviction": 0.7975
+    },
+    {
+        "time": "2026-02-15 02:30:40",
+        "type": "SELL",
+        "market": "KRW-WLFI",
+        "price": 159,
+        "amount": 199009.89450997274,
+        "roi": -0.625
+    },
+    {
+        "time": "2026-02-15 02:30:40",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1495.0000000000002,
+        "amount": 195364.15380417198,
+        "conviction": 0.7669
+    },
+    {
+        "time": "2026-02-15 02:30:40",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 532.0,
+        "amount": 185534.18991567052,
+        "conviction": 0.7617
+    },
+    {
+        "time": "2026-02-15 02:33:41",
+        "type": "SELL",
+        "market": "KRW-PENDLE",
+        "price": 1928,
+        "amount": 201045.35058478676,
+        "roi": -0.3102378490175801
+    },
+    {
+        "time": "2026-02-15 02:36:39",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5420,
+        "amount": 201852.6268397792,
+        "roi": 1.5004547991536952
+    },
+    {
+        "time": "2026-02-15 02:36:39",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.1,
+        "amount": 198747.46159284931,
+        "roi": 0.909090909090906
+    },
+    {
+        "time": "2026-02-15 02:39:38",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 90.70000000000002,
+        "amount": 221394.1190553994,
+        "conviction": 0.9179
+    },
+    {
+        "time": "2026-02-15 02:39:38",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5425.0,
+        "amount": 192884.7118178295,
+        "conviction": 0.7997
+    },
+    {
+        "time": "2026-02-15 02:39:38",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.099999999999998,
+        "amount": 187349.19101382204,
+        "conviction": 0.7978
+    },
+    {
+        "time": "2026-02-15 02:48:40",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1483,
+        "amount": 31240.0296962336,
+        "roi": -0.802675585284296
+    },
+    {
+        "time": "2026-02-15 02:48:40",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 89.8,
+        "amount": 30633.522570163714,
+        "conviction": 0.9515
+    },
+    {
+        "time": "2026-02-15 02:51:40",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1482,
+        "amount": 162252.80225638766,
+        "roi": -0.8695652173913194
+    },
+    {
+        "time": "2026-02-15 02:51:40",
+        "type": "SELL",
+        "market": "KRW-TIA",
+        "price": 524,
+        "amount": 182561.54922173024,
+        "roi": -1.5037593984962405
+    },
+    {
+        "time": "2026-02-15 02:51:40",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 89.8,
+        "amount": 42973.535552261244,
+        "conviction": 0.9546
+    },
+    {
+        "time": "2026-02-15 02:51:40",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.200000000000001,
+        "amount": 56862.14518941063,
+        "conviction": 0.7639
+    },
+    {
+        "time": "2026-02-15 02:51:40",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5385.0,
+        "amount": 36608.349839155875,
+        "conviction": 0.7123
+    },
+    {
+        "time": "2026-02-15 02:51:40",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 85.5,
+        "amount": 197984.13471674535,
+        "conviction": 0.6193
+    },
+    {
+        "time": "2026-02-15 03:00:41",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.1,
+        "amount": 40777.75796080597,
+        "roi": -0.20789277549461668
+    },
+    {
+        "time": "2026-02-15 03:03:40",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5375,
+        "amount": 227419.80672449438,
+        "roi": -0.8042602010070716
+    },
+    {
+        "time": "2026-02-15 03:03:40",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.2,
+        "amount": 204508.26532465115,
+        "roi": 0.6911352175189422
+    },
+    {
+        "time": "2026-02-15 03:03:40",
+        "type": "BUY",
+        "market": "KRW-LINEA",
+        "price": 5.92,
+        "amount": 259641.1933296598,
+        "conviction": 0.5677
+    },
+    {
+        "time": "2026-02-15 03:06:41",
+        "type": "BUY",
+        "market": "KRW-LINEA",
+        "price": 5.94,
+        "amount": 32912.3507067637,
+        "conviction": 0.7144
+    },
+    {
+        "time": "2026-02-15 03:06:42",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 86.1,
+        "amount": 80567.40372420206,
+        "conviction": 0.6568
+    },
+    {
+        "time": "2026-02-15 03:09:38",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 86.4,
+        "amount": 62874.49934258144,
+        "roi": 0.8489510406690668
+    },
+    {
+        "time": "2026-02-15 03:09:39",
+        "type": "SELL",
+        "market": "KRW-LINEA",
+        "price": 5.94,
+        "amount": 56279.205426316716,
+        "roi": 0.2998309921591869
+    },
+    {
+        "time": "2026-02-15 03:09:39",
+        "type": "BUY",
+        "market": "KRW-WAVES",
+        "price": 753.9999999999999,
+        "amount": 217779.77121767483,
+        "conviction": 0.6562
+    },
+    {
+        "time": "2026-02-15 03:12:40",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 86.1,
+        "amount": 217004.91468079414,
+        "roi": 0.49878107177784153
+    },
+    {
+        "time": "2026-02-15 03:12:41",
+        "type": "BUY",
+        "market": "KRW-WAVES",
+        "price": 754.0,
+        "amount": 47247.90849675429,
+        "conviction": 0.8504
+    },
+    {
+        "time": "2026-02-15 03:15:40",
+        "type": "SELL",
+        "market": "KRW-LINEA",
+        "price": 5.88,
+        "amount": 37419.37669100958,
+        "roi": -0.7132986138222273
+    },
+    {
+        "time": "2026-02-15 03:15:40",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 86.5,
+        "amount": 213087.25377517173,
+        "conviction": 0.6496
+    },
+    {
+        "time": "2026-02-15 03:18:40",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89.4,
+        "amount": 53703.17237487812,
+        "roi": -1.1868106622225
+    },
+    {
+        "time": "2026-02-15 03:18:40",
+        "type": "SELL",
+        "market": "KRW-LINEA",
+        "price": 5.9,
+        "amount": 197716.56239967817,
+        "roi": -0.37558874516175095
+    },
+    {
+        "time": "2026-02-15 03:18:41",
+        "type": "SELL",
+        "market": "KRW-WAVES",
+        "price": 754,
+        "amount": 54700.10709105363,
+        "roi": 3.015565987310771e-14
+    },
+    {
+        "time": "2026-02-15 03:18:41",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 86.5,
+        "amount": 24354.980447271708,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 03:18:41",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.4,
+        "amount": 165438.92567464145,
+        "conviction": 0.5631
+    },
+    {
+        "time": "2026-02-15 03:21:38",
+        "type": "SELL",
+        "market": "KRW-WAVES",
+        "price": 753,
+        "amount": 209784.07967590416,
+        "roi": -0.13262599469493008
+    },
+    {
+        "time": "2026-02-15 03:21:38",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 89.4,
+        "amount": 24257.573974006194,
+        "conviction": 0.7553
+    },
+    {
+        "time": "2026-02-15 03:21:38",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.4,
+        "amount": 86368.8315437327,
+        "conviction": 0.7232
+    },
+    {
+        "time": "2026-02-15 03:27:49",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89.4,
+        "amount": 25634.871421550775,
+        "roi": -1.0781133836569867
+    },
+    {
+        "time": "2026-02-15 03:30:54",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89.1,
+        "amount": 53005.09948959852,
+        "roi": -1.4100660233091569
+    },
+    {
+        "time": "2026-02-15 03:30:55",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.4,
+        "amount": 27106.879847362303,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 03:30:55",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 157.0,
+        "amount": 209205.0094722113,
+        "conviction": 0.6938
+    },
+    {
+        "time": "2026-02-15 03:30:55",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1502.0,
+        "amount": 166971.59799051678,
+        "conviction": 0.5621
+    },
+    {
+        "time": "2026-02-15 03:36:47",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 89.5,
+        "amount": 183125.04323397417,
+        "roi": -0.9674625037729404
+    },
+    {
+        "time": "2026-02-15 03:36:47",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 89.2,
+        "amount": 194403.70978906343,
+        "roi": 3.1213872832369973
+    },
+    {
+        "time": "2026-02-15 03:36:47",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 426.0,
+        "amount": 192844.4664171655,
+        "conviction": 0.6672
+    },
+    {
+        "time": "2026-02-15 03:45:50",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1509.0,
+        "amount": 24090.630045565093,
+        "conviction": 0.6873
+    },
+    {
+        "time": "2026-02-15 03:45:50",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.0,
+        "amount": 160654.27889544974,
+        "conviction": 0.675
+    },
+    {
+        "time": "2026-02-15 03:48:49",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 157,
+        "amount": 24250.904036045296,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 03:51:50",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.5,
+        "amount": 25895.31893126317,
+        "roi": 0.8771929824561372
+    },
+    {
+        "time": "2026-02-15 03:51:50",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 157,
+        "amount": 184745.00497692346,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 03:57:47",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 91.6,
+        "amount": 163346.9263240578,
+        "roi": 1.7777777777777715
+    },
+    {
+        "time": "2026-02-15 04:00:52",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.5,
+        "amount": 225079.16507962934,
+        "conviction": 0.8955
+    },
+    {
+        "time": "2026-02-15 04:00:52",
+        "type": "BUY",
+        "market": "KRW-TOSHI",
+        "price": 0.373,
+        "amount": 173040.13191733544,
+        "conviction": 0.7664
+    },
+    {
+        "time": "2026-02-15 04:03:49",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 426,
+        "amount": 192651.71832479452,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 04:03:49",
+        "type": "BUY",
+        "market": "KRW-TOSHI",
+        "price": 0.373,
+        "amount": 20111.102770481157,
+        "conviction": 0.771
+    },
+    {
+        "time": "2026-02-15 04:03:49",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 158.00000000000003,
+        "amount": 172545.3634564848,
+        "conviction": 0.7179
+    },
+    {
+        "time": "2026-02-15 04:09:49",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 91.7,
+        "amount": 225345.6829845527,
+        "roi": 0.21857923497268072
+    },
+    {
+        "time": "2026-02-15 04:12:46",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.0,
+        "amount": 224843.81594748117,
+        "conviction": 0.9672
+    },
+    {
+        "time": "2026-02-15 04:15:51",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.4,
+        "amount": 198779.05320984725,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 04:15:51",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1504,
+        "amount": 24843.06206416596,
+        "roi": 0.07458784211922374
+    },
+    {
+        "time": "2026-02-15 04:15:51",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 89.7,
+        "amount": 38776.24880116299,
+        "conviction": 0.9644
+    },
+    {
+        "time": "2026-02-15 04:15:52",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 427.0,
+        "amount": 174996.26163033335,
+        "conviction": 0.6487
+    },
+    {
+        "time": "2026-02-15 04:18:47",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1504,
+        "amount": 166170.5659822752,
+        "roi": 0.07458784211922374
+    },
+    {
+        "time": "2026-02-15 04:18:47",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 157,
+        "amount": 171281.93657371806,
+        "roi": -0.6329113924050811
+    },
+    {
+        "time": "2026-02-15 04:18:47",
+        "type": "BUY",
+        "market": "KRW-TOSHI",
+        "price": 0.372,
+        "amount": 63750.66754744052,
+        "conviction": 0.7792
+    },
+    {
+        "time": "2026-02-15 04:18:48",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 5.84,
+        "amount": 214622.9128151746,
+        "conviction": 0.6536
+    },
+    {
+        "time": "2026-02-15 04:21:49",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 429,
+        "amount": 175640.1881993273,
+        "roi": 0.468384074941452
+    },
+    {
+        "time": "2026-02-15 04:21:49",
+        "type": "BUY",
+        "market": "KRW-TOSHI",
+        "price": 0.372,
+        "amount": 38292.3804989966,
+        "conviction": 0.781
+    },
+    {
+        "time": "2026-02-15 04:21:49",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 5.84,
+        "amount": 77509.84751584154,
+        "conviction": 0.7337
+    },
+    {
+        "time": "2026-02-15 04:30:50",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.3,
+        "amount": 32623.221051472337,
+        "conviction": 0.9241
+    },
+    {
+        "time": "2026-02-15 04:33:48",
+        "type": "SELL",
+        "market": "KRW-TOSHI",
+        "price": 0.374,
+        "amount": 79417.86210908231,
+        "roi": 0.36127063721950686
+    },
+    {
+        "time": "2026-02-15 04:33:48",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 90,
+        "amount": 43642.83758138719,
+        "roi": -0.8268567171043729
+    },
+    {
+        "time": "2026-02-15 04:33:48",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.83,
+        "amount": 110310.44473766773,
+        "roi": -0.17123287671230994
+    },
+    {
+        "time": "2026-02-15 04:33:48",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1532.0,
+        "amount": 169040.36356329022,
+        "conviction": 0.5972
+    },
+    {
+        "time": "2026-02-15 04:33:48",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 432.0,
+        "amount": 162473.49077243256,
+        "conviction": 0.574
+    },
+    {
+        "time": "2026-02-15 04:36:47",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 90.1,
+        "amount": 19716.064561381983,
+        "roi": -0.7166643356789396
+    },
+    {
+        "time": "2026-02-15 04:36:47",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.81,
+        "amount": 180409.57025151092,
+        "roi": -0.5136986301369755
+    },
+    {
+        "time": "2026-02-15 04:36:48",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1527.0,
+        "amount": 25325.888667235602,
+        "conviction": 0.6947
+    },
+    {
+        "time": "2026-02-15 04:36:48",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.6,
+        "amount": 174074.47958264782,
+        "conviction": 0.6243
+    },
+    {
+        "time": "2026-02-15 04:39:49",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 431,
+        "amount": 161935.37834244216,
+        "roi": -0.23148148148148145
+    },
+    {
+        "time": "2026-02-15 04:45:51",
+        "type": "SELL",
+        "market": "KRW-TOSHI",
+        "price": 0.373,
+        "amount": 215967.75618746664,
+        "roi": 0.09292499380448124
+    },
+    {
+        "time": "2026-02-15 04:45:51",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 90.2,
+        "amount": 21715.972965002522,
+        "roi": -0.6064719542534907
+    },
+    {
+        "time": "2026-02-15 04:45:52",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 433.0,
+        "amount": 190686.77025920094,
+        "conviction": 0.6748
+    },
+    {
+        "time": "2026-02-15 04:48:46",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 90.4,
+        "amount": 32796.74981827634,
+        "roi": -0.4962795728280573
+    },
+    {
+        "time": "2026-02-15 04:48:47",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.5,
+        "amount": 172401.3499235598,
+        "roi": -0.8620689655172384
+    },
+    {
+        "time": "2026-02-15 04:48:47",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 532.0,
+        "amount": 160602.25103237867,
+        "conviction": 0.572
+    },
+    {
+        "time": "2026-02-15 04:51:48",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 90.6,
+        "amount": 177015.9489671398,
+        "roi": -0.1657024285517417
+    },
+    {
+        "time": "2026-02-15 04:51:49",
+        "type": "SELL",
+        "market": "KRW-TIA",
+        "price": 533,
+        "amount": 160743.31123978933,
+        "roi": 0.18796992481203006
+    },
+    {
+        "time": "2026-02-15 04:51:49",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 434.0,
+        "amount": 26655.418505948608,
+        "conviction": 0.7976
+    },
+    {
+        "time": "2026-02-15 04:51:49",
+        "type": "BUY",
+        "market": "KRW-ZRO",
+        "price": 2809.0,
+        "amount": 162570.6492078328,
+        "conviction": 0.5966
+    },
+    {
+        "time": "2026-02-15 04:54:47",
+        "type": "SELL",
+        "market": "KRW-ZRO",
+        "price": 2806,
+        "amount": 162234.70858246216,
+        "roi": -0.10679957280170879
+    },
+    {
+        "time": "2026-02-15 04:54:48",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 5.87,
+        "amount": 168389.89554866677,
+        "conviction": 0.639
+    },
+    {
+        "time": "2026-02-15 04:54:48",
+        "type": "BUY",
+        "market": "KRW-HBAR",
+        "price": 155.0,
+        "amount": 167204.05121308382,
+        "conviction": 0.6345
+    },
+    {
+        "time": "2026-02-15 05:00:50",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.85,
+        "amount": 167648.43277087534,
+        "roi": -0.34071550255537414
+    },
+    {
+        "time": "2026-02-15 05:00:50",
+        "type": "SELL",
+        "market": "KRW-HBAR",
+        "price": 154,
+        "amount": 165959.2731045542,
+        "roi": -0.6451612903225806
+    },
+    {
+        "time": "2026-02-15 05:00:50",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 160.0,
+        "amount": 234408.3835917864,
+        "conviction": 0.911
+    },
+    {
+        "time": "2026-02-15 05:00:50",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2203.0,
+        "amount": 185133.73434435873,
+        "conviction": 0.7195
+    },
+    {
+        "time": "2026-02-15 05:00:50",
+        "type": "BUY",
+        "market": "KRW-WLFI",
+        "price": 162.0,
+        "amount": 142285.79529141373,
+        "conviction": 0.6386
+    },
+    {
+        "time": "2026-02-15 05:03:52",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 433,
+        "amount": 34380.91185855606,
+        "roi": -0.028258671424817312
+    },
+    {
+        "time": "2026-02-15 05:03:52",
+        "type": "SELL",
+        "market": "KRW-WLFI",
+        "price": 162,
+        "amount": 142143.5806034663,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 05:03:52",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2213.0,
+        "amount": 28002.58469166823,
+        "conviction": 0.8886
+    },
+    {
+        "time": "2026-02-15 05:03:52",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.7,
+        "amount": 148462.63352136384,
+        "conviction": 0.7508
+    },
+    {
+        "time": "2026-02-15 05:06:51",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1525,
+        "amount": 193367.23984083664,
+        "roi": -0.41444870630477143
+    },
+    {
+        "time": "2026-02-15 05:06:51",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 434,
+        "amount": 183104.58667624515,
+        "roi": 0.20262294827166116
+    },
+    {
+        "time": "2026-02-15 05:06:51",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 160,
+        "amount": 27406.930269462293,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 05:06:51",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.7,
+        "amount": 49084.32216377581,
+        "conviction": 0.8845
+    },
+    {
+        "time": "2026-02-15 05:06:51",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.8,
+        "amount": 178813.84746878507,
+        "conviction": 0.8058
+    },
+    {
+        "time": "2026-02-15 05:06:52",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5405.0,
+        "amount": 177460.20573603798,
+        "conviction": 0.7997
+    },
+    {
+        "time": "2026-02-15 05:18:49",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2199,
+        "amount": 41073.72314285105,
+        "roi": -0.2408317221459757
+    },
+    {
+        "time": "2026-02-15 05:18:49",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5385,
+        "amount": 176626.8385297861,
+        "roi": -0.37002775208140615
+    },
+    {
+        "time": "2026-02-15 05:18:50",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 160.0,
+        "amount": 21312.113089579198,
+        "conviction": 0.9295
+    },
+    {
+        "time": "2026-02-15 05:18:50",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 89.8,
+        "amount": 32887.11984150363,
+        "conviction": 0.8564
+    },
+    {
+        "time": "2026-02-15 05:18:50",
+        "type": "BUY",
+        "market": "KRW-WLFI",
+        "price": 162.0,
+        "amount": 161892.83113594668,
+        "conviction": 0.6769
+    },
+    {
+        "time": "2026-02-15 05:21:44",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2191,
+        "amount": 170713.45310097057,
+        "roi": -0.6037573002373046
+    },
+    {
+        "time": "2026-02-15 05:21:45",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.4,
+        "amount": 192289.26367270958,
+        "roi": -2.564102564102555
+    },
+    {
+        "time": "2026-02-15 05:21:45",
+        "type": "BUY",
+        "market": "KRW-XPL",
+        "price": 151.0,
+        "amount": 169577.77584860698,
+        "conviction": 0.6597
+    },
+    {
+        "time": "2026-02-15 05:30:48",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 160.0,
+        "amount": 46069.5098881224,
+        "conviction": 0.868
+    },
+    {
+        "time": "2026-02-15 05:30:48",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.7,
+        "amount": 52052.97373898843,
+        "conviction": 0.8385
+    },
+    {
+        "time": "2026-02-15 05:30:48",
+        "type": "BUY",
+        "market": "KRW-XPL",
+        "price": 151.0,
+        "amount": 49448.14172803651,
+        "conviction": 0.693
+    },
+    {
+        "time": "2026-02-15 05:30:48",
+        "type": "BUY",
+        "market": "KRW-WLFI",
+        "price": 160.0,
+        "amount": 47122.4582431944,
+        "conviction": 0.6552
+    },
+    {
+        "time": "2026-02-15 05:33:47",
+        "type": "SELL",
+        "market": "KRW-XPL",
+        "price": 149,
+        "amount": 215908.895142233,
+        "roi": -1.3245033112582782
+    },
+    {
+        "time": "2026-02-15 05:33:47",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.1,
+        "amount": 25197.500979586657,
+        "conviction": 0.7906
+    },
+    {
+        "time": "2026-02-15 05:33:47",
+        "type": "BUY",
+        "market": "KRW-WLFI",
+        "price": 160.0,
+        "amount": 69902.7690087456,
+        "conviction": 0.6552
+    },
+    {
+        "time": "2026-02-15 05:36:49",
+        "type": "SELL",
+        "market": "KRW-WLFI",
+        "price": 157,
+        "amount": 271455.5517105179,
+        "roi": -2.5781462023460215
+    },
+    {
+        "time": "2026-02-15 05:48:49",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 5.87,
+        "amount": 285865.2355223965,
+        "conviction": 0.5859
+    },
+    {
+        "time": "2026-02-15 05:51:47",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 89.6,
+        "amount": 285458.293373168,
+        "roi": -1.1100645628393644
+    },
+    {
+        "time": "2026-02-15 05:51:47",
+        "type": "BUY",
+        "market": "KRW-XPL",
+        "price": 152.0,
+        "amount": 284877.640908716,
+        "conviction": 0.7094
+    },
+    {
+        "time": "2026-02-15 06:03:47",
+        "type": "SELL",
+        "market": "KRW-XPL",
+        "price": 151,
+        "amount": 282720.58388784237,
+        "roi": -0.6578947368421052
+    },
+    {
+        "time": "2026-02-15 06:03:47",
+        "type": "BUY",
+        "market": "KRW-BTC",
+        "price": 103114000.0,
+        "amount": 285257.92338284996,
+        "conviction": 0.6399
+    },
+    {
+        "time": "2026-02-15 06:06:47",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 163,
+        "amount": 70643.42430614134,
+        "roi": 1.8749999999999818
+    },
+    {
+        "time": "2026-02-15 06:06:48",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.87,
+        "amount": 105245.03999802425,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 06:09:45",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 163,
+        "amount": 33163.10052464778,
+        "roi": 1.8749999999999818
+    },
+    {
+        "time": "2026-02-15 06:09:45",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.87,
+        "amount": 180334.47315003705,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 06:09:45",
+        "type": "SELL",
+        "market": "KRW-BTC",
+        "price": 103181000,
+        "amount": 65079.872679662345,
+        "roi": 0.0649766278099967
+    },
+    {
+        "time": "2026-02-15 06:09:45",
+        "type": "BUY",
+        "market": "KRW-VIRTUAL",
+        "price": 1017.0,
+        "amount": 216507.39590513348,
+        "conviction": 0.9138
+    },
+    {
+        "time": "2026-02-15 06:09:46",
+        "type": "BUY",
+        "market": "KRW-ZRO",
+        "price": 2825.0,
+        "amount": 178171.98698275498,
+        "conviction": 0.752
+    },
+    {
+        "time": "2026-02-15 06:12:45",
+        "type": "BUY",
+        "market": "KRW-ZRO",
+        "price": 2821.0,
+        "amount": 23746.150858638386,
+        "conviction": 0.8947
+    },
+    {
+        "time": "2026-02-15 06:12:45",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 531.0,
+        "amount": 139430.04619451574,
+        "conviction": 0.6947
+    },
+    {
+        "time": "2026-02-15 06:15:48",
+        "type": "SELL",
+        "market": "KRW-BTC",
+        "price": 103239000,
+        "amount": 49930.03628071284,
+        "roi": 0.12122505188432221
+    },
+    {
+        "time": "2026-02-15 06:15:48",
+        "type": "SELL",
+        "market": "KRW-TIA",
+        "price": 531,
+        "amount": 139290.68582850424,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 06:15:48",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 164.0,
+        "amount": 26057.1081022296,
+        "conviction": 0.8614
+    },
+    {
+        "time": "2026-02-15 06:15:48",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 92.05981752450538,
+        "amount": 162938.02644657393,
+        "conviction": 0.7444
+    },
+    {
+        "time": "2026-02-15 06:18:45",
+        "type": "SELL",
+        "market": "KRW-BTC",
+        "price": 103172000,
+        "amount": 170161.27195832174,
+        "roi": 0.0562484240743255
+    },
+    {
+        "time": "2026-02-15 06:18:45",
+        "type": "SELL",
+        "market": "KRW-ZRO",
+        "price": 2813,
+        "amount": 28428.968887337716,
+        "roi": -0.40817425063067425
+    },
+    {
+        "time": "2026-02-15 06:18:45",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.7,
+        "amount": 45350.0592107575,
+        "conviction": 0.9013
+    },
+    {
+        "time": "2026-02-15 06:18:45",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 928.9999999999999,
+        "amount": 153332.35964657032,
+        "conviction": 0.6826
+    },
+    {
+        "time": "2026-02-15 06:21:48",
+        "type": "SELL",
+        "market": "KRW-VIRTUAL",
+        "price": 1019,
+        "amount": 20884.346685865294,
+        "roi": 0.19665683382497542
+    },
+    {
+        "time": "2026-02-15 06:21:49",
+        "type": "SELL",
+        "market": "KRW-ZRO",
+        "price": 2811,
+        "amount": 172341.3783787592,
+        "roi": -0.4789825163607626
+    },
+    {
+        "time": "2026-02-15 06:21:49",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 929.0,
+        "amount": 24844.99369236183,
+        "conviction": 0.8184
+    },
+    {
+        "time": "2026-02-15 06:21:49",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.9,
+        "amount": 167673.46452855886,
+        "conviction": 0.7723
+    },
+    {
+        "time": "2026-02-15 06:24:48",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 162,
+        "amount": 200051.39210773454,
+        "roi": 0.9256878379889234
+    },
+    {
+        "time": "2026-02-15 06:27:46",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 163.0,
+        "amount": 200307.8719790075,
+        "conviction": 0.944
+    },
+    {
+        "time": "2026-02-15 06:30:49",
+        "type": "SELL",
+        "market": "KRW-VIRTUAL",
+        "price": 1011,
+        "amount": 23269.99527799097,
+        "roi": -0.5899705014749262
+    },
+    {
+        "time": "2026-02-15 06:30:49",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 926,
+        "amount": 19587.835028982798,
+        "roi": -0.32292787944024615
+    },
+    {
+        "time": "2026-02-15 06:30:49",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.2,
+        "amount": 18911.957810926822,
+        "conviction": 0.9663
+    },
+    {
+        "time": "2026-02-15 06:33:50",
+        "type": "SELL",
+        "market": "KRW-VIRTUAL",
+        "price": 1008,
+        "amount": 170517.06992967488,
+        "roi": -0.8849557522123894
+    },
+    {
+        "time": "2026-02-15 06:33:51",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 924,
+        "amount": 157495.72091995415,
+        "roi": -0.5382131324004183
+    },
+    {
+        "time": "2026-02-15 06:33:51",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 293.0,
+        "amount": 146445.71767343383,
+        "conviction": 0.5731
+    },
+    {
+        "time": "2026-02-15 06:33:51",
+        "type": "BUY",
+        "market": "KRW-ETC",
+        "price": 13189.999999999998,
+        "amount": 140645.12816887425,
+        "conviction": 0.5504
+    },
+    {
+        "time": "2026-02-15 06:36:50",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.6,
+        "amount": 163283.03767754923,
+        "roi": -2.521008403361365
+    },
+    {
+        "time": "2026-02-15 06:36:50",
+        "type": "SELL",
+        "market": "KRW-ETC",
+        "price": 13150,
+        "amount": 140078.45915578876,
+        "roi": -0.30326004548899305
+    },
+    {
+        "time": "2026-02-15 06:36:50",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.7,
+        "amount": 47531.59399112855,
+        "conviction": 0.9011
+    },
+    {
+        "time": "2026-02-15 06:36:51",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 293.0,
+        "amount": 54516.126703050955,
+        "conviction": 0.6672
+    },
+    {
+        "time": "2026-02-15 06:39:51",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 162.0,
+        "amount": 72804.88085684426,
+        "conviction": 0.8781
+    },
+    {
+        "time": "2026-02-15 06:39:51",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.6,
+        "amount": 193442.59345501137,
+        "conviction": 0.6596
+    },
+    {
+        "time": "2026-02-15 06:45:48",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.5,
+        "amount": 191583.30574542595,
+        "roi": -0.8620689655172384
+    },
+    {
+        "time": "2026-02-15 06:45:48",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 295.0,
+        "amount": 38104.47563330842,
+        "conviction": 0.5779
+    },
+    {
+        "time": "2026-02-15 06:48:47",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.1,
+        "amount": 275645.09841792856,
+        "roi": 0.6509700480825258
+    },
+    {
+        "time": "2026-02-15 06:48:47",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 295,
+        "amount": 240197.7552994717,
+        "roi": 0.5737960930167447
+    },
+    {
+        "time": "2026-02-15 06:48:48",
+        "type": "BUY",
+        "market": "KRW-VIRTUAL",
+        "price": 1007.9999999999999,
+        "amount": 283158.1182963556,
+        "conviction": 0.7919
+    },
+    {
+        "time": "2026-02-15 06:51:46",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 162,
+        "amount": 24836.632043094003,
+        "roi": -0.44995432744093605
+    },
+    {
+        "time": "2026-02-15 06:51:46",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 92.4,
+        "amount": 282640.8143898718,
+        "conviction": 0.9732
+    },
+    {
+        "time": "2026-02-15 07:00:51",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.9,
+        "amount": 283886.2277842754,
+        "roi": 0.5411255411255411
+    },
+    {
+        "time": "2026-02-15 07:03:47",
+        "type": "SELL",
+        "market": "KRW-VIRTUAL",
+        "price": 1012,
+        "amount": 283997.6219311514,
+        "roi": 0.39682539682541945
+    },
+    {
+        "time": "2026-02-15 07:03:48",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 93.4,
+        "amount": 283604.24301099154,
+        "conviction": 0.9602
+    },
+    {
+        "time": "2026-02-15 07:03:48",
+        "type": "BUY",
+        "market": "KRW-AXS",
+        "price": 2226.0,
+        "amount": 244808.5032539269,
+        "conviction": 0.5635
+    },
+    {
+        "time": "2026-02-15 07:06:49",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 163,
+        "amount": 53474.25170908073,
+        "roi": 0.16455212732794705
+    },
+    {
+        "time": "2026-02-15 07:06:50",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 5.94,
+        "amount": 182902.8718994562,
+        "conviction": 0.6023
+    },
+    {
+        "time": "2026-02-15 07:18:49",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.8,
+        "amount": 45656.44701600386,
+        "roi": -0.6423982869379106
+    },
+    {
+        "time": "2026-02-15 07:18:49",
+        "type": "SELL",
+        "market": "KRW-AXS",
+        "price": 2231,
+        "amount": 70287.15407144483,
+        "roi": 0.22461814914645103
+    },
+    {
+        "time": "2026-02-15 07:18:49",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.92,
+        "amount": 182104.84137459187,
+        "roi": -0.33670033670035937
+    },
+    {
+        "time": "2026-02-15 07:18:49",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1733.0,
+        "amount": 185434.5698462384,
+        "conviction": 0.7429
+    },
+    {
+        "time": "2026-02-15 07:18:49",
+        "type": "BUY",
+        "market": "KRW-VIRTUAL",
+        "price": 1015.9999999999999,
+        "amount": 151419.00630796028,
+        "conviction": 0.6869
+    },
+    {
+        "time": "2026-02-15 07:21:48",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 163,
+        "amount": 24618.910150817537,
+        "roi": 0.16455212732794705
+    },
+    {
+        "time": "2026-02-15 07:21:48",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 93.9,
+        "amount": 26198.340969036286,
+        "roi": 0.5353319057815845
+    },
+    {
+        "time": "2026-02-15 07:21:48",
+        "type": "SELL",
+        "market": "KRW-AXS",
+        "price": 2229,
+        "amount": 174669.2734049091,
+        "roi": 0.13477088948787064
+    },
+    {
+        "time": "2026-02-15 07:21:48",
+        "type": "BUY",
+        "market": "KRW-VIRTUAL",
+        "price": 1014.0,
+        "amount": 67688.00041522426,
+        "conviction": 0.9679
+    },
+    {
+        "time": "2026-02-15 07:21:48",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.9,
+        "amount": 146777.77611088447,
+        "conviction": 0.6506
+    },
+    {
+        "time": "2026-02-15 07:27:47",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 94.6,
+        "amount": 214025.20876268108,
+        "roi": 1.1777301927194799
+    },
+    {
+        "time": "2026-02-15 07:30:48",
+        "type": "SELL",
+        "market": "KRW-VIRTUAL",
+        "price": 1017,
+        "amount": 32095.89154022543,
+        "roi": 0.15941745383199107
+    },
+    {
+        "time": "2026-02-15 07:30:48",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 95.5,
+        "amount": 220759.05144705172,
+        "conviction": 0.9509
+    },
+    {
+        "time": "2026-02-15 07:30:48",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 165.0,
+        "amount": 24334.4581673094,
+        "conviction": 0.8432
+    },
+    {
+        "time": "2026-02-15 07:33:46",
+        "type": "SELL",
+        "market": "KRW-VIRTUAL",
+        "price": 1018,
+        "amount": 187325.07621102536,
+        "roi": 0.257902623403114
+    },
+    {
+        "time": "2026-02-15 07:36:47",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1731,
+        "amount": 27455.034191369625,
+        "roi": -0.1154068090017311
+    },
+    {
+        "time": "2026-02-15 07:36:47",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.9,
+        "amount": 146631.07168698552,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 07:36:47",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1036.0,
+        "amount": 205819.0113864549,
+        "conviction": 0.9105
+    },
+    {
+        "time": "2026-02-15 07:36:47",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 6.0,
+        "amount": 165627.22641007148,
+        "conviction": 0.7327
+    },
+    {
+        "time": "2026-02-15 07:39:48",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1731,
+        "amount": 157580.40353329762,
+        "roi": -0.1154068090017311
+    },
+    {
+        "time": "2026-02-15 07:39:49",
+        "type": "BUY",
+        "market": "KRW-TOKAMAK",
+        "price": 840.0,
+        "amount": 159515.98618242418,
+        "conviction": 0.874
+    },
+    {
+        "time": "2026-02-15 07:42:49",
+        "type": "BUY",
+        "market": "KRW-TOKAMAK",
+        "price": 838.0,
+        "amount": 1516.1994432411898,
+        "conviction": 0.874
+    },
+    {
+        "time": "2026-02-15 07:45:47",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1031,
+        "amount": 27381.98960212481,
+        "roi": -0.4826254826254826
+    },
+    {
+        "time": "2026-02-15 07:48:47",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 165,
+        "amount": 196604.18233594752,
+        "roi": 1.2191497444180999
+    },
+    {
+        "time": "2026-02-15 07:48:47",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1036,
+        "amount": 178098.51227698475,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 07:48:47",
+        "type": "SELL",
+        "market": "KRW-TOKAMAK",
+        "price": 837,
+        "amount": 160300.29588167765,
+        "roi": -0.3549037452621686
+    },
+    {
+        "time": "2026-02-15 07:48:47",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 12.0,
+        "amount": 168934.4964220932,
+        "conviction": 0.7249
+    },
+    {
+        "time": "2026-02-15 07:48:48",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1738.0,
+        "amount": 163621.06488715977,
+        "conviction": 0.7021
+    },
+    {
+        "time": "2026-02-15 07:51:51",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1736,
+        "amount": 163269.4271735176,
+        "roi": -0.11507479861910241
+    },
+    {
+        "time": "2026-02-15 07:51:51",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 165.99999999999997,
+        "amount": 213386.25940777894,
+        "conviction": 0.9346
+    },
+    {
+        "time": "2026-02-15 07:51:51",
+        "type": "BUY",
+        "market": "KRW-TIA",
+        "price": 537.0,
+        "amount": 167996.58641979235,
+        "conviction": 0.7358
+    },
+    {
+        "time": "2026-02-15 07:54:48",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 6.05,
+        "amount": 166840.5293055209,
+        "roi": 0.8333333333333304
+    },
+    {
+        "time": "2026-02-15 07:54:48",
+        "type": "SELL",
+        "market": "KRW-TIA",
+        "price": 535,
+        "amount": 167203.6135521097,
+        "roi": -0.37243947858473
+    },
+    {
+        "time": "2026-02-15 07:54:48",
+        "type": "BUY",
+        "market": "KRW-XLM",
+        "price": 258.0,
+        "amount": 181268.65162789827,
+        "conviction": 0.8234
+    },
+    {
+        "time": "2026-02-15 07:54:48",
+        "type": "BUY",
+        "market": "KRW-QKC",
+        "price": 5.15,
+        "amount": 162942.41121983173,
+        "conviction": 0.7759
+    },
+    {
+        "time": "2026-02-15 08:00:49",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.8,
+        "amount": 165952.88557819504,
+        "roi": -1.6666666666666607
+    },
+    {
+        "time": "2026-02-15 08:00:49",
+        "type": "SELL",
+        "market": "KRW-XLM",
+        "price": 257,
+        "amount": 180385.58413287805,
+        "roi": -0.3875968992248062
+    },
+    {
+        "time": "2026-02-15 08:00:50",
+        "type": "BUY",
+        "market": "KRW-QKC",
+        "price": 5.15,
+        "amount": 20743.178035921053,
+        "conviction": 0.7759
+    },
+    {
+        "time": "2026-02-15 08:00:50",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 6.06,
+        "amount": 176565.90629966956,
+        "conviction": 0.7497
+    },
+    {
+        "time": "2026-02-15 08:00:50",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1737.0,
+        "amount": 149161.62868245994,
+        "conviction": 0.6504
+    },
+    {
+        "time": "2026-02-15 08:03:48",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.9,
+        "amount": 214534.21583963404,
+        "roi": -2.7225130890052296
+    },
+    {
+        "time": "2026-02-15 08:03:48",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1739,
+        "amount": 149184.11619904407,
+        "roi": 0.11514104778353484
+    },
+    {
+        "time": "2026-02-15 08:03:48",
+        "type": "BUY",
+        "market": "KRW-SOL",
+        "price": 130200.0,
+        "amount": 154140.51219222602,
+        "conviction": 0.6345
+    },
+    {
+        "time": "2026-02-15 08:06:47",
+        "type": "SELL",
+        "market": "KRW-QKC",
+        "price": 5.12,
+        "amount": 31684.728016382025,
+        "roi": -0.5825242718446649
+    },
+    {
+        "time": "2026-02-15 08:06:48",
+        "type": "BUY",
+        "market": "KRW-SOL",
+        "price": 130200.0,
+        "amount": 71707.95447921,
+        "conviction": 0.9122
+    },
+    {
+        "time": "2026-02-15 08:06:48",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 93.7,
+        "amount": 157456.7523228536,
+        "conviction": 0.6363
+    },
+    {
+        "time": "2026-02-15 08:09:47",
+        "type": "SELL",
+        "market": "KRW-QKC",
+        "price": 5.11,
+        "amount": 150453.8934642268,
+        "roi": -0.7766990291262142
+    },
+    {
+        "time": "2026-02-15 08:09:47",
+        "type": "BUY",
+        "market": "KRW-SOL",
+        "price": 130400.0,
+        "amount": 44506.664795291996,
+        "conviction": 0.9123
+    },
+    {
+        "time": "2026-02-15 08:09:47",
+        "type": "BUY",
+        "market": "KRW-DOGE",
+        "price": 165.0,
+        "amount": 46725.0350184882,
+        "conviction": 0.8685
+    },
+    {
+        "time": "2026-02-15 08:09:48",
+        "type": "BUY",
+        "market": "KRW-DOOD",
+        "price": 5.97,
+        "amount": 40885.39673880903,
+        "conviction": 0.7225
+    },
+    {
+        "time": "2026-02-15 08:09:48",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 93.6,
+        "amount": 31564.355983838494,
+        "conviction": 0.6363
+    },
+    {
+        "time": "2026-02-15 08:16:00",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 164,
+        "amount": 30234.399998050216,
+        "roi": -1.0972613952638608
+    },
+    {
+        "time": "2026-02-15 08:16:00",
+        "type": "SELL",
+        "market": "KRW-DOOD",
+        "price": 5.94,
+        "amount": 213535.8515304514,
+        "roi": -1.7023622224536732
+    },
+    {
+        "time": "2026-02-15 08:16:00",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 130600,
+        "amount": 98640.54226477236,
+        "roi": 0.2818931705710084
+    },
+    {
+        "time": "2026-02-15 08:16:00",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.1,
+        "amount": 185640.8396845071,
+        "roi": -1.690041363244998
+    },
+    {
+        "time": "2026-02-15 08:16:00",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1062.0,
+        "amount": 182143.9036468241,
+        "conviction": 0.636
+    },
+    {
+        "time": "2026-02-15 08:16:01",
+        "type": "BUY",
+        "market": "KRW-ETC",
+        "price": 13320.0,
+        "amount": 177132.082332276,
+        "conviction": 0.6185
+    },
+    {
+        "time": "2026-02-15 08:16:01",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1762.3450064741908,
+        "amount": 169141.80737949364,
+        "conviction": 0.5906
+    },
+    {
+        "time": "2026-02-15 08:18:47",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 164,
+        "amount": 46856.87902536852,
+        "roi": -1.0972613952638608
+    },
+    {
+        "time": "2026-02-15 08:18:47",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 130500,
+        "amount": 172073.86273452657,
+        "roi": 0.2051076474694992
+    },
+    {
+        "time": "2026-02-15 08:18:47",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1060.0,
+        "amount": 36908.8044428316,
+        "conviction": 0.9047
+    },
+    {
+        "time": "2026-02-15 08:18:48",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 436.0,
+        "amount": 157755.5565797903,
+        "conviction": 0.6541
+    },
+    {
+        "time": "2026-02-15 08:21:46",
+        "type": "SELL",
+        "market": "KRW-DOGE",
+        "price": 163,
+        "amount": 178811.78116268557,
+        "roi": -1.7003268745610325
+    },
+    {
+        "time": "2026-02-15 08:21:47",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1075,
+        "amount": 21206.541976842407,
+        "roi": 1.2562857125248683
+    },
+    {
+        "time": "2026-02-15 08:21:47",
+        "type": "BUY",
+        "market": "KRW-PYTH",
+        "price": 85.6,
+        "amount": 188043.38616862745,
+        "conviction": 0.9167
+    },
+    {
+        "time": "2026-02-15 08:21:47",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 434.0,
+        "amount": 22080.879258428125,
+        "conviction": 0.8714
+    },
+    {
+        "time": "2026-02-15 08:27:46",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1068,
+        "amount": 199071.62363894144,
+        "roi": 0.5969424567223808
+    },
+    {
+        "time": "2026-02-15 08:30:48",
+        "type": "SELL",
+        "market": "KRW-PYTH",
+        "price": 85.7,
+        "amount": 188074.89404309585,
+        "roi": 0.11682242990655202
+    },
+    {
+        "time": "2026-02-15 08:30:48",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1068.0,
+        "amount": 226007.59716548026,
+        "conviction": 0.9756
+    },
+    {
+        "time": "2026-02-15 08:30:48",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 434.0,
+        "amount": 20782.43107082415,
+        "conviction": 0.8611
+    },
+    {
+        "time": "2026-02-15 08:30:48",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1766.0,
+        "amount": 21372.162507023066,
+        "conviction": 0.8239
+    },
+    {
+        "time": "2026-02-15 08:30:48",
+        "type": "BUY",
+        "market": "KRW-META",
+        "price": 14.6,
+        "amount": 131815.3461048746,
+        "conviction": 0.6016
+    },
+    {
+        "time": "2026-02-15 08:33:49",
+        "type": "SELL",
+        "market": "KRW-ETC",
+        "price": 13250,
+        "amount": 176025.094874275,
+        "roi": -0.5255255255255256
+    },
+    {
+        "time": "2026-02-15 08:33:49",
+        "type": "SELL",
+        "market": "KRW-META",
+        "price": 14.5,
+        "amount": 130781.65419081021,
+        "roi": -0.6849315068493127
+    },
+    {
+        "time": "2026-02-15 08:33:50",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1073.0,
+        "amount": 43088.276175412,
+        "conviction": 0.9726
+    },
+    {
+        "time": "2026-02-15 08:33:50",
+        "type": "BUY",
+        "market": "KRW-ONDO",
+        "price": 434.0,
+        "amount": 36535.94487749724,
+        "conviction": 0.8502
+    },
+    {
+        "time": "2026-02-15 08:33:50",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1769.0,
+        "amount": 27487.45469225667,
+        "conviction": 0.7875
+    },
+    {
+        "time": "2026-02-15 08:33:50",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1740.0,
+        "amount": 200805.3523443222,
+        "conviction": 0.7235
+    },
+    {
+        "time": "2026-02-15 08:36:49",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1740.0,
+        "amount": 153.17902943909996,
+        "conviction": 0.8557
+    },
+    {
+        "time": "2026-02-15 08:39:47",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1740.0,
+        "amount": 1.4559766244999999,
+        "conviction": 0.8557
+    },
+    {
+        "time": "2026-02-15 08:42:48",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1741.0000000000002,
+        "amount": 0.013830451770000002,
+        "conviction": 0.8557
+    },
+    {
+        "time": "2026-02-15 08:45:47",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 435,
+        "amount": 37162.38694646531,
+        "roi": -0.07542629098043885
+    },
+    {
+        "time": "2026-02-15 08:45:47",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1742.0,
+        "amount": 25606.779340694757,
+        "conviction": 0.7751
+    },
+    {
+        "time": "2026-02-15 08:48:48",
+        "type": "SELL",
+        "market": "KRW-ONDO",
+        "price": 435,
+        "amount": 199576.69025570713,
+        "roi": -0.07542629098043885
+    },
+    {
+        "time": "2026-02-15 08:48:48",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1770.0,
+        "amount": 58333.63092814439,
+        "conviction": 0.7095
+    },
+    {
+        "time": "2026-02-15 08:48:49",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1744.0,
+        "amount": 35530.396488244085,
+        "conviction": 0.6668
+    },
+    {
+        "time": "2026-02-15 08:51:49",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1739,
+        "amount": 261574.01428161256,
+        "roi": -0.09975607689933917
+    },
+    {
+        "time": "2026-02-15 09:00:49",
+        "type": "SELL",
+        "market": "KRW-IP",
+        "price": 1752,
+        "amount": 83138.33750321025,
+        "roi": -0.7308775994501703
+    },
+    {
+        "time": "2026-02-15 09:00:49",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1740.1600260167925,
+        "amount": 215844.1672468903,
+        "conviction": 0.6811
+    },
+    {
+        "time": "2026-02-15 09:00:49",
+        "type": "BUY",
+        "market": "KRW-TOKAMAK",
+        "price": 841.0,
+        "amount": 210361.70638079586,
+        "conviction": 0.6638
+    },
+    {
+        "time": "2026-02-15 09:03:47",
+        "type": "SELL",
+        "market": "KRW-IP",
+        "price": 1751,
+        "amount": 190793.90586364645,
+        "roi": -0.7875380574413516
+    },
+    {
+        "time": "2026-02-15 09:03:48",
+        "type": "BUY",
+        "market": "KRW-ETC",
+        "price": 13230.0,
+        "amount": 180220.6533734397,
+        "conviction": 0.6214
+    },
+    {
+        "time": "2026-02-15 09:06:47",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1062,
+        "amount": 267117.1918163675,
+        "roi": -0.6359929217984447
+    },
+    {
+        "time": "2026-02-15 09:06:47",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1716,
+        "amount": 28963.20246234538,
+        "roi": -1.3883795544996234
+    },
+    {
+        "time": "2026-02-15 09:06:47",
+        "type": "SELL",
+        "market": "KRW-TOKAMAK",
+        "price": 830,
+        "amount": 207402.73880647376,
+        "roi": -1.3079667063020213
+    },
+    {
+        "time": "2026-02-15 09:09:48",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1044.0,
+        "amount": 189885.9155089995,
+        "conviction": 0.9404
+    },
+    {
+        "time": "2026-02-15 09:12:48",
+        "type": "SELL",
+        "market": "KRW-ETC",
+        "price": 13190,
+        "amount": 179496.18258041592,
+        "roi": -0.30234315948601664
+    },
+    {
+        "time": "2026-02-15 09:12:49",
+        "type": "BUY",
+        "market": "KRW-MASK",
+        "price": 770.0,
+        "amount": 188627.73016541684,
+        "conviction": 0.9683
+    },
+    {
+        "time": "2026-02-15 09:15:46",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1701,
+        "amount": 182065.96744140598,
+        "roi": -2.2503692437085427
+    },
+    {
+        "time": "2026-02-15 09:15:47",
+        "type": "BUY",
+        "market": "KRW-QKC",
+        "price": 6.07,
+        "amount": 201526.63191568071,
+        "conviction": 0.9638
+    },
+    {
+        "time": "2026-02-15 09:15:47",
+        "type": "BUY",
+        "market": "KRW-TOKAMAK",
+        "price": 854.0,
+        "amount": 196884.70285062786,
+        "conviction": 0.9416
+    },
+    {
+        "time": "2026-02-15 09:15:47",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1897.0000000000002,
+        "amount": 133190.1826665981,
+        "conviction": 0.7252
+    },
+    {
+        "time": "2026-02-15 09:18:49",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1029,
+        "amount": 186970.60545898616,
+        "roi": -1.4367816091954022
+    },
+    {
+        "time": "2026-02-15 09:18:49",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1879.0,
+        "amount": 55068.63769974058,
+        "conviction": 0.908
+    },
+    {
+        "time": "2026-02-15 09:21:47",
+        "type": "SELL",
+        "market": "KRW-MASK",
+        "price": 770,
+        "amount": 188439.19670198316,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 09:21:47",
+        "type": "SELL",
+        "market": "KRW-QKC",
+        "price": 6.34,
+        "amount": 30558.33408625929,
+        "roi": 4.448105436573304
+    },
+    {
+        "time": "2026-02-15 09:21:47",
+        "type": "SELL",
+        "market": "KRW-TOKAMAK",
+        "price": 857,
+        "amount": 197378.857699741,
+        "roi": 0.351288056206089
+    },
+    {
+        "time": "2026-02-15 09:21:47",
+        "type": "BUY",
+        "market": "KRW-WAVES",
+        "price": 784.0,
+        "amount": 179959.5761421007,
+        "conviction": 0.9351
+    },
+    {
+        "time": "2026-02-15 09:24:49",
+        "type": "SELL",
+        "market": "KRW-IP",
+        "price": 1844,
+        "amount": 183328.4599359495,
+        "roi": -2.5214968685828305
+    },
+    {
+        "time": "2026-02-15 09:24:49",
+        "type": "BUY",
+        "market": "KRW-SOL",
+        "price": 129900.0,
+        "amount": 181634.71877840252,
+        "conviction": 0.9499
+    },
+    {
+        "time": "2026-02-15 09:27:49",
+        "type": "SELL",
+        "market": "KRW-QKC",
+        "price": 6.31,
+        "amount": 178871.6096463885,
+        "roi": 3.9538714991762656
+    },
+    {
+        "time": "2026-02-15 09:27:49",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1865.0,
+        "amount": 186216.25102671597,
+        "conviction": 0.9736
+    },
+    {
+        "time": "2026-02-15 09:30:51",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 129900,
+        "amount": 181453.1748315975,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 09:30:51",
+        "type": "BUY",
+        "market": "KRW-TOKAMAK",
+        "price": 859.0,
+        "amount": 186658.36323881923,
+        "conviction": 0.9541
+    },
+    {
+        "time": "2026-02-15 09:30:51",
+        "type": "BUY",
+        "market": "KRW-QKC",
+        "price": 6.31,
+        "amount": 181591.3350424004,
+        "conviction": 0.9282
+    },
+    {
+        "time": "2026-02-15 09:30:51",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2252.0,
+        "amount": 166155.4846346452,
+        "conviction": 0.8493
+    },
+    {
+        "time": "2026-02-15 09:36:48",
+        "type": "SELL",
+        "market": "KRW-WAVES",
+        "price": 800,
+        "amount": 183448.68010283602,
+        "roi": 2.0408163265306123
+    },
+    {
+        "time": "2026-02-15 09:36:48",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2258.0,
+        "amount": 18503.61130171983,
+        "conviction": 0.9422
+    },
+    {
+        "time": "2026-02-15 09:39:50",
+        "type": "SELL",
+        "market": "KRW-IP",
+        "price": 1812,
+        "amount": 180743.4807727392,
+        "roi": -2.841823056300268
+    },
+    {
+        "time": "2026-02-15 09:39:50",
+        "type": "SELL",
+        "market": "KRW-TOKAMAK",
+        "price": 858,
+        "amount": 186254.71806713342,
+        "roi": -0.11641443538998836
+    },
+    {
+        "time": "2026-02-15 09:39:50",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 1.0,
+        "amount": 187978.58016844475,
+        "conviction": 0.979
+    },
+    {
+        "time": "2026-02-15 09:42:50",
+        "type": "SELL",
+        "market": "KRW-QKC",
+        "price": 6.22,
+        "amount": 178822.37247647948,
+        "roi": -1.4263074484944511
+    },
+    {
+        "time": "2026-02-15 09:42:50",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 149.0,
+        "amount": 183260.96583093016,
+        "conviction": 0.9699
+    },
+    {
+        "time": "2026-02-15 09:45:47",
+        "type": "BUY",
+        "market": "KRW-WAVES",
+        "price": 788.0,
+        "amount": 183083.10496934238,
+        "conviction": 0.952
+    },
+    {
+        "time": "2026-02-15 09:45:47",
+        "type": "BUY",
+        "market": "KRW-TOKAMAK",
+        "price": 871.0,
+        "amount": 165845.49366255815,
+        "conviction": 0.9158
+    },
+    {
+        "time": "2026-02-15 09:48:48",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.975,
+        "amount": 183095.92814233035,
+        "roi": -2.500000000000002
+    },
+    {
+        "time": "2026-02-15 09:51:50",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.6,
+        "amount": 177581.59909445205,
+        "conviction": 0.8913
+    },
+    {
+        "time": "2026-02-15 09:57:48",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 144,
+        "amount": 176934.24623335392,
+        "roi": -3.3557046979865772
+    },
+    {
+        "time": "2026-02-15 10:00:51",
+        "type": "SELL",
+        "market": "KRW-WAVES",
+        "price": 788,
+        "amount": 182900.11336017764,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 10:00:51",
+        "type": "SELL",
+        "market": "KRW-TOKAMAK",
+        "price": 865,
+        "amount": 164538.42406248514,
+        "roi": -0.6888633754305395
+    },
+    {
+        "time": "2026-02-15 10:00:51",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.5,
+        "amount": 21139.429817262284,
+        "conviction": 0.9009
+    },
+    {
+        "time": "2026-02-15 10:00:51",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 147.0,
+        "amount": 183790.6729067175,
+        "conviction": 0.8275
+    },
+    {
+        "time": "2026-02-15 10:00:51",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 0.984,
+        "amount": 142168.47097081543,
+        "conviction": 0.6401
+    },
+    {
+        "time": "2026-02-15 10:03:48",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 91.3,
+        "amount": 199846.9188755321,
+        "roi": 0.6671849795667514
+    },
+    {
+        "time": "2026-02-15 10:03:48",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.974,
+        "amount": 140583.016093794,
+        "roi": -1.0162601626016268
+    },
+    {
+        "time": "2026-02-15 10:03:49",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 146.0,
+        "amount": 32870.97140818806,
+        "conviction": 0.7751
+    },
+    {
+        "time": "2026-02-15 10:03:49",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2247.0,
+        "amount": 29020.704487583444,
+        "conviction": 0.7714
+    },
+    {
+        "time": "2026-02-15 10:06:42",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2270,
+        "amount": 74848.63169625064,
+        "roi": 0.8065581395875795
+    },
+    {
+        "time": "2026-02-15 10:06:42",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 144,
+        "amount": 51049.12535201866,
+        "roi": -1.9390221800305931
+    },
+    {
+        "time": "2026-02-15 10:06:42",
+        "type": "BUY",
+        "market": "KRW-BTC",
+        "price": 102970000.00000001,
+        "amount": 213153.51289470002,
+        "conviction": 0.9412
+    },
+    {
+        "time": "2026-02-15 10:06:42",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.4,
+        "amount": 198207.0991667281,
+        "conviction": 0.8752
+    },
+    {
+        "time": "2026-02-15 10:09:42",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 143,
+        "amount": 160079.60944590776,
+        "roi": -2.6200011926692692
+    },
+    {
+        "time": "2026-02-15 10:12:42",
+        "type": "BUY",
+        "market": "KRW-OM",
+        "price": 98.8,
+        "amount": 177857.00387360685,
+        "conviction": 0.7842
+    },
+    {
+        "time": "2026-02-15 10:12:42",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 143.0,
+        "amount": 158160.2974189953,
+        "conviction": 0.7125
+    },
+    {
+        "time": "2026-02-15 10:15:42",
+        "type": "SELL",
+        "market": "KRW-OM",
+        "price": 96,
+        "amount": 172643.79182554802,
+        "roi": -2.8340080971659893
+    },
+    {
+        "time": "2026-02-15 10:15:42",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 142,
+        "amount": 156897.3055596718,
+        "roi": -0.6993006993006993
+    },
+    {
+        "time": "2026-02-15 10:15:42",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5395.0,
+        "amount": 161799.65634337242,
+        "conviction": 0.6726
+    },
+    {
+        "time": "2026-02-15 10:18:43",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 93.5,
+        "amount": 62054.55650403083,
+        "conviction": 0.9288
+    },
+    {
+        "time": "2026-02-15 10:18:43",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5395.0,
+        "amount": 51873.09495973702,
+        "conviction": 0.7496
+    },
+    {
+        "time": "2026-02-15 10:18:43",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2269.0,
+        "amount": 54805.603126149574,
+        "conviction": 0.6907
+    },
+    {
+        "time": "2026-02-15 10:21:42",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2243,
+        "amount": 30508.51375140279,
+        "roi": -0.6051282638183688
+    },
+    {
+        "time": "2026-02-15 10:21:42",
+        "type": "SELL",
+        "market": "KRW-BTC",
+        "price": 102601000,
+        "amount": 212177.37925949,
+        "roi": -0.35058754977179263
+    },
+    {
+        "time": "2026-02-15 10:21:42",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 94.4,
+        "amount": 56842.221745717674,
+        "roi": 2.8380075172677777
+    },
+    {
+        "time": "2026-02-15 10:21:42",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5335,
+        "amount": 30583.62343566205,
+        "roi": -1.1121408711769991
+    },
+    {
+        "time": "2026-02-15 10:21:42",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1014.0,
+        "amount": 184879.96608040712,
+        "conviction": 0.8324
+    },
+    {
+        "time": "2026-02-15 10:24:42",
+        "type": "BUY",
+        "market": "KRW-MED",
+        "price": 3.9300000000000006,
+        "amount": 145173.30990922885,
+        "conviction": 0.6561
+    },
+    {
+        "time": "2026-02-15 10:27:43",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 94.7,
+        "amount": 210923.4068964146,
+        "roi": 3.055654094023903
+    },
+    {
+        "time": "2026-02-15 10:27:43",
+        "type": "SELL",
+        "market": "KRW-MED",
+        "price": 3.91,
+        "amount": 144290.15210568055,
+        "roi": -0.5089058524173145
+    },
+    {
+        "time": "2026-02-15 10:27:43",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 37.1,
+        "amount": 173515.22021088895,
+        "conviction": 0.8192
+    },
+    {
+        "time": "2026-02-15 10:30:42",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5330,
+        "amount": 180332.42767518046,
+        "roi": -1.2048192771084172
+    },
+    {
+        "time": "2026-02-15 10:30:42",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1013,
+        "amount": 184513.03336165517,
+        "roi": -0.09861932938856016
+    },
+    {
+        "time": "2026-02-15 10:30:43",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 37.4,
+        "amount": 90919.07765188372,
+        "conviction": 0.7459
+    },
+    {
+        "time": "2026-02-15 10:30:43",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2250.0,
+        "amount": 94831.65927106874,
+        "conviction": 0.7015
+    },
+    {
+        "time": "2026-02-15 10:36:43",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2232,
+        "amount": 255468.13402524692,
+        "roi": -0.9851465664396585
+    },
+    {
+        "time": "2026-02-15 10:36:43",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 95.5,
+        "amount": 268480.7853318679,
+        "conviction": 0.9752
+    },
+    {
+        "time": "2026-02-15 10:36:43",
+        "type": "BUY",
+        "market": "KRW-ME",
+        "price": 230.00000000000003,
+        "amount": 239148.31536788368,
+        "conviction": 0.5946
+    },
+    {
+        "time": "2026-02-15 10:39:41",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 38.2,
+        "amount": 271252.35903941107,
+        "roi": 2.6809870304280112
+    },
+    {
+        "time": "2026-02-15 10:45:43",
+        "type": "SELL",
+        "market": "KRW-ME",
+        "price": 229,
+        "amount": 237870.55053836448,
+        "roi": -0.4347826086956645
+    },
+    {
+        "time": "2026-02-15 10:45:43",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 38.0,
+        "amount": 264328.2884295872,
+        "conviction": 0.6811
+    },
+    {
+        "time": "2026-02-15 10:48:40",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 94.1,
+        "amount": 264280.5286234255,
+        "roi": -1.4659685863874405
+    },
+    {
+        "time": "2026-02-15 10:48:40",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 38.4,
+        "amount": 266843.71426282387,
+        "roi": 1.0526315789473648
+    },
+    {
+        "time": "2026-02-15 11:18:41",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 94.0,
+        "amount": 265673.3749007792,
+        "conviction": 0.9594
+    },
+    {
+        "time": "2026-02-15 11:21:43",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.7,
+        "amount": 21637.497236360396,
+        "roi": -1.3829787234042523
+    },
+    {
+        "time": "2026-02-15 11:21:44",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 38.0,
+        "amount": 167746.19486171994,
+        "conviction": 0.6685
+    },
+    {
+        "time": "2026-02-15 11:21:44",
+        "type": "BUY",
+        "market": "KRW-BCH",
+        "price": 830000.0,
+        "amount": 153844.7091126,
+        "conviction": 0.6131
+    },
+    {
+        "time": "2026-02-15 11:24:41",
+        "type": "BUY",
+        "market": "KRW-AUCTION",
+        "price": 8085.000000000001,
+        "amount": 141175.77942210436,
+        "conviction": 0.5621
+    },
+    {
+        "time": "2026-02-15 11:30:47",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 37.7,
+        "amount": 166255.5440835819,
+        "roi": -0.7894736842105189
+    },
+    {
+        "time": "2026-02-15 11:30:47",
+        "type": "SELL",
+        "market": "KRW-AUCTION",
+        "price": 8020,
+        "amount": 139900.8147243378,
+        "roi": -0.8039579468150896
+    },
+    {
+        "time": "2026-02-15 11:30:47",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 92.7,
+        "amount": 23401.63285708307,
+        "conviction": 0.9588
+    },
+    {
+        "time": "2026-02-15 11:30:47",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 312.0,
+        "amount": 263482.3894749789,
+        "conviction": 0.7316
+    },
+    {
+        "time": "2026-02-15 11:30:48",
+        "type": "BUY",
+        "market": "KRW-BCH",
+        "price": 829500.0,
+        "amount": 80102.3840714475,
+        "conviction": 0.6131
+    },
+    {
+        "time": "2026-02-15 11:33:43",
+        "type": "SELL",
+        "market": "KRW-BCH",
+        "price": 827000,
+        "amount": 232916.57720312505,
+        "roi": -0.3408817251450598
+    },
+    {
+        "time": "2026-02-15 11:36:41",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 91.5,
+        "amount": 260067.3270570795,
+        "roi": -2.6464941413004697
+    },
+    {
+        "time": "2026-02-15 11:39:42",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 316,
+        "amount": 266593.6418218977,
+        "roi": 1.2820512820513006
+    },
+    {
+        "time": "2026-02-15 11:39:42",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.5,
+        "amount": 263255.64786922315,
+        "conviction": 0.9527
+    },
+    {
+        "time": "2026-02-15 11:45:45",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 315.0,
+        "amount": 264039.37288008526,
+        "conviction": 0.7688
+    },
+    {
+        "time": "2026-02-15 11:51:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 304,
+        "amount": 254564.25873053362,
+        "roi": -3.492063492063492
+    },
+    {
+        "time": "2026-02-15 11:54:43",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 307.0,
+        "amount": 261971.84890242908,
+        "conviction": 0.77
+    },
+    {
+        "time": "2026-02-15 11:57:42",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.9,
+        "amount": 267016.45310904447,
+        "roi": 1.5300546448087493
+    },
+    {
+        "time": "2026-02-15 12:00:46",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 92.2,
+        "amount": 260950.16539474248,
+        "conviction": 0.9542
+    },
+    {
+        "time": "2026-02-15 12:03:42",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 307,
+        "amount": 261710.00797399087,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 12:21:43",
+        "type": "BUY",
+        "market": "KRW-MED",
+        "price": 3.87,
+        "amount": 231524.65931090945,
+        "conviction": 0.6117
+    },
+    {
+        "time": "2026-02-15 12:30:45",
+        "type": "SELL",
+        "market": "KRW-MED",
+        "price": 3.81,
+        "amount": 227707.30849009033,
+        "roi": -1.5503875968992262
+    },
+    {
+        "time": "2026-02-15 12:30:45",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 31290.0,
+        "amount": 260492.43972559812,
+        "conviction": 0.7925
+    },
+    {
+        "time": "2026-02-15 12:36:42",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 30460,
+        "amount": 253329.14923761188,
+        "roi": -2.652604666027485
+    },
+    {
+        "time": "2026-02-15 12:39:43",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 30450.0,
+        "amount": 256305.60833328674,
+        "conviction": 0.8743
+    },
+    {
+        "time": "2026-02-15 12:42:43",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 89.8,
+        "amount": 253903.50583950593,
+        "roi": -2.6030368763557545
+    },
+    {
+        "time": "2026-02-15 12:45:44",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 90.2,
+        "amount": 257008.92594416265,
+        "conviction": 0.8974
+    },
+    {
+        "time": "2026-02-15 12:48:41",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 30700,
+        "amount": 258151.64288935953,
+        "roi": 0.8210180623973727
+    },
+    {
+        "time": "2026-02-15 12:48:41",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 305.81254108408393,
+        "amount": 235933.23951641633,
+        "conviction": 0.6191
+    },
+    {
+        "time": "2026-02-15 12:51:42",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 307.00000000000006,
+        "amount": 21277.08832551899,
+        "conviction": 0.7673
+    },
+    {
+        "time": "2026-02-15 12:54:39",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 31049.999999999996,
+        "amount": 257921.64930246293,
+        "conviction": 0.793
+    },
+    {
+        "time": "2026-02-15 13:06:42",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 91.4,
+        "amount": 260167.8154645606,
+        "roi": 1.3303769401330408
+    },
+    {
+        "time": "2026-02-15 13:06:42",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 303,
+        "amount": 18579.595270293754,
+        "roi": -0.9513968301112736
+    },
+    {
+        "time": "2026-02-15 13:06:43",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 31340,
+        "amount": 65456.1299011125,
+        "roi": 0.9339774557165981
+    },
+    {
+        "time": "2026-02-15 13:06:43",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1006.4517724038097,
+        "amount": 183674.62807115683,
+        "conviction": 0.6582
+    },
+    {
+        "time": "2026-02-15 13:12:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 305,
+        "amount": 24738.09733873206,
+        "roi": -0.29761067057405444
+    },
+    {
+        "time": "2026-02-15 13:15:46",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 306,
+        "amount": 21449.862237592,
+        "roi": 0.029282409194555242
+    },
+    {
+        "time": "2026-02-15 13:15:46",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 92.6,
+        "amount": 248983.47157033664,
+        "conviction": 0.8908
+    },
+    {
+        "time": "2026-02-15 13:15:46",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 999.9999703333472,
+        "amount": 29872.694757157107,
+        "conviction": 0.7585
+    },
+    {
+        "time": "2026-02-15 13:18:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 306,
+        "amount": 37812.566692413595,
+        "roi": 0.029282409194555242
+    },
+    {
+        "time": "2026-02-15 13:18:41",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 30850,
+        "amount": 191571.46078611744,
+        "roi": -0.6763285024154473
+    },
+    {
+        "time": "2026-02-15 13:18:41",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1000,
+        "amount": 21646.76416471352,
+        "roi": -0.5513670141093602
+    },
+    {
+        "time": "2026-02-15 13:18:42",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 91.7,
+        "amount": 41491.960798443004,
+        "roi": -0.9719222462202932
+    },
+    {
+        "time": "2026-02-15 13:18:42",
+        "type": "BUY",
+        "market": "KRW-PENGU",
+        "price": 11.600000000000001,
+        "amount": 126765.17587733844,
+        "conviction": 0.5609
+    },
+    {
+        "time": "2026-02-15 13:21:41",
+        "type": "SELL",
+        "market": "KRW-PENGU",
+        "price": 11.4,
+        "amount": 124455.05208595336,
+        "roi": -1.7241379310344918
+    },
+    {
+        "time": "2026-02-15 13:21:42",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 31230.0,
+        "amount": 173656.70688366136,
+        "conviction": 0.8141
+    },
+    {
+        "time": "2026-02-15 13:21:42",
+        "type": "BUY",
+        "market": "KRW-XLM",
+        "price": 261.0,
+        "amount": 125989.57179300438,
+        "conviction": 0.6613
+    },
+    {
+        "time": "2026-02-15 13:30:43",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 995,
+        "amount": 52319.72800938587,
+        "roi": -1.0486101790388134
+    },
+    {
+        "time": "2026-02-15 13:30:44",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 311.0,
+        "amount": 36081.968206589234,
+        "conviction": 0.8339
+    },
+    {
+        "time": "2026-02-15 13:33:41",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 996,
+        "amount": 137376.5112923419,
+        "roi": -0.9491615460529228
+    },
+    {
+        "time": "2026-02-15 13:33:42",
+        "type": "SELL",
+        "market": "KRW-XLM",
+        "price": 260,
+        "amount": 125381.4089960692,
+        "roi": -0.38314176245210724
+    },
+    {
+        "time": "2026-02-15 13:33:42",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 312.0,
+        "amount": 62879.808583715756,
+        "conviction": 0.8699
+    },
+    {
+        "time": "2026-02-15 13:33:42",
+        "type": "BUY",
+        "market": "KRW-MOODENG",
+        "price": 91.4,
+        "amount": 51909.06154561681,
+        "conviction": 0.8349
+    },
+    {
+        "time": "2026-02-15 13:33:42",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 31660.0,
+        "amount": 79995.8639303937,
+        "conviction": 0.8063
+    },
+    {
+        "time": "2026-02-15 13:36:44",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 308,
+        "amount": 252900.84484894222,
+        "roi": -0.03959903405985718
+    },
+    {
+        "time": "2026-02-15 13:36:44",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 31640,
+        "amount": 255626.1175659184,
+        "roi": 0.8788796183976871
+    },
+    {
+        "time": "2026-02-15 13:39:43",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 309.0,
+        "amount": 255367.4590493049,
+        "conviction": 0.8953
+    },
+    {
+        "time": "2026-02-15 13:39:43",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 31540.0,
+        "amount": 255367.45875901976,
+        "conviction": 0.8023
+    },
+    {
+        "time": "2026-02-15 13:51:42",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 308,
+        "amount": 58117.68215606813,
+        "roi": -0.3236245954692557
+    },
+    {
+        "time": "2026-02-15 13:51:42",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 31130,
+        "amount": 251795.92184480696,
+        "roi": -1.2999365884590994
+    },
+    {
+        "time": "2026-02-15 13:51:42",
+        "type": "BUY",
+        "market": "KRW-XLM",
+        "price": 263.0,
+        "amount": 188381.22979890788,
+        "conviction": 0.5592
+    },
+    {
+        "time": "2026-02-15 13:54:41",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2275.0,
+        "amount": 202798.29205729274,
+        "conviction": 0.6347
+    },
+    {
+        "time": "2026-02-15 14:00:48",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 306,
+        "amount": 194895.1069383403,
+        "roi": -0.9708737864077669
+    },
+    {
+        "time": "2026-02-15 14:00:48",
+        "type": "SELL",
+        "market": "KRW-XLM",
+        "price": 261,
+        "amount": 186761.8176730122,
+        "roi": -0.7604562737642585
+    },
+    {
+        "time": "2026-02-15 14:00:48",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2279.0,
+        "amount": 50728.84970472787,
+        "conviction": 0.6835
+    },
+    {
+        "time": "2026-02-15 14:21:42",
+        "type": "BUY",
+        "market": "KRW-MASK",
+        "price": 763.0,
+        "amount": 253500.94109352326,
+        "conviction": 0.7039
+    },
+    {
+        "time": "2026-02-15 14:30:50",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.2,
+        "amount": 19672.202202381057,
+        "roi": -0.1699180413160349
+    },
+    {
+        "time": "2026-02-15 14:30:50",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2295,
+        "amount": 26351.645041651016,
+        "roi": 0.8436928078722192
+    },
+    {
+        "time": "2026-02-15 14:30:50",
+        "type": "SELL",
+        "market": "KRW-MASK",
+        "price": 771,
+        "amount": 34849.02643767547,
+        "roi": 1.0484927916120577
+    },
+    {
+        "time": "2026-02-15 14:30:51",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 32320.000000000004,
+        "amount": 159981.53446863842,
+        "conviction": 0.569
+    },
+    {
+        "time": "2026-02-15 14:33:38",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 92.5,
+        "amount": 64115.37006923102,
+        "roi": 0.2631842665307409
+    },
+    {
+        "time": "2026-02-15 14:33:38",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2313,
+        "amount": 51171.4027137904,
+        "roi": 1.6346237318555308
+    },
+    {
+        "time": "2026-02-15 14:33:38",
+        "type": "SELL",
+        "market": "KRW-MASK",
+        "price": 765,
+        "amount": 219333.5596720131,
+        "roi": 0.2621231979030144
+    },
+    {
+        "time": "2026-02-15 14:33:38",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 32130.0,
+        "amount": 21673.0686135474,
+        "conviction": 0.8655
+    },
+    {
+        "time": "2026-02-15 14:33:39",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1009.0,
+        "amount": 135456.12245338963,
+        "conviction": 0.6491
+    },
+    {
+        "time": "2026-02-15 14:36:43",
+        "type": "BUY",
+        "market": "KRW-MASK",
+        "price": 765.0,
+        "amount": 174235.11336022025,
+        "conviction": 0.8993
+    },
+    {
+        "time": "2026-02-15 14:45:46",
+        "type": "SELL",
+        "market": "KRW-MASK",
+        "price": 755,
+        "amount": 19486.136959086314,
+        "roi": -1.3071895424836601
+    },
+    {
+        "time": "2026-02-15 14:45:46",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1012.0,
+        "amount": 18224.548549934756,
+        "conviction": 0.7448
+    },
+    {
+        "time": "2026-02-15 14:48:41",
+        "type": "SELL",
+        "market": "KRW-MOODENG",
+        "price": 90.7,
+        "amount": 171831.64844553795,
+        "roi": -1.794051695741479
+    },
+    {
+        "time": "2026-02-15 14:48:41",
+        "type": "SELL",
+        "market": "KRW-MASK",
+        "price": 752,
+        "amount": 151694.3579634844,
+        "roi": -1.6993464052287581
+    },
+    {
+        "time": "2026-02-15 14:48:41",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2327.0,
+        "amount": 21483.379066952784,
+        "conviction": 0.9534
+    },
+    {
+        "time": "2026-02-15 14:48:41",
+        "type": "BUY",
+        "market": "KRW-ENS",
+        "price": 10360.0,
+        "amount": 155217.6561874722,
+        "conviction": 0.7313
+    },
+    {
+        "time": "2026-02-15 14:48:42",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 308.0,
+        "amount": 145284.40541407713,
+        "conviction": 0.6845
+    },
+    {
+        "time": "2026-02-15 14:51:42",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 307,
+        "amount": 144667.9624664636,
+        "roi": -0.3246753246753247
+    },
+    {
+        "time": "2026-02-15 14:51:42",
+        "type": "BUY",
+        "market": "KRW-XLM",
+        "price": 267.0,
+        "amount": 141888.71725893737,
+        "conviction": 0.6648
+    },
+    {
+        "time": "2026-02-15 14:54:42",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 35540,
+        "amount": 199693.7556367685,
+        "roi": 10.040453639808874
+    },
+    {
+        "time": "2026-02-15 15:00:51",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1003,
+        "amount": 152560.47084085227,
+        "roi": -0.6295934074986794
+    },
+    {
+        "time": "2026-02-15 15:00:51",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 35650.0,
+        "amount": 211118.0897992537,
+        "conviction": 0.9727
+    },
+    {
+        "time": "2026-02-15 15:00:52",
+        "type": "BUY",
+        "market": "KRW-SOL",
+        "price": 132300.0,
+        "amount": 136628.803311525,
+        "conviction": 0.6295
+    },
+    {
+        "time": "2026-02-15 15:06:41",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2326,
+        "amount": 202146.6676992339,
+        "roi": 1.9624084846517116
+    },
+    {
+        "time": "2026-02-15 15:06:41",
+        "type": "SELL",
+        "market": "KRW-XLM",
+        "price": 264,
+        "amount": 140154.23765900303,
+        "roi": -1.1235955056179776
+    },
+    {
+        "time": "2026-02-15 15:06:41",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 35170,
+        "amount": 17720.486966795033,
+        "roi": -1.3464235624123422
+    },
+    {
+        "time": "2026-02-15 15:09:44",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2328.0,
+        "amount": 186803.8126705609,
+        "conviction": 0.9593
+    },
+    {
+        "time": "2026-02-15 15:15:41",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 979.0,
+        "amount": 185051.1190802802,
+        "conviction": 0.9317
+    },
+    {
+        "time": "2026-02-15 15:18:42",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 132300,
+        "amount": 136492.24278847504,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 15:18:42",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 317.0,
+        "amount": 136953.79491504945,
+        "conviction": 0.7384
+    },
+    {
+        "time": "2026-02-15 15:21:44",
+        "type": "SELL",
+        "market": "KRW-ENS",
+        "price": 10240,
+        "amount": 153266.4251812352,
+        "roi": -1.1583011583011582
+    },
+    {
+        "time": "2026-02-15 15:21:44",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 34640,
+        "amount": 187478.42447450568,
+        "roi": -2.833099579242637
+    },
+    {
+        "time": "2026-02-15 15:21:45",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 980,
+        "amount": 42276.63348698531,
+        "roi": 0.10214504596527069
+    },
+    {
+        "time": "2026-02-15 15:21:45",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 315.0,
+        "amount": 54275.330432614726,
+        "conviction": 0.8662
+    },
+    {
+        "time": "2026-02-15 15:21:45",
+        "type": "BUY",
+        "market": "KRW-XLM",
+        "price": 266.0,
+        "amount": 123120.98572411806,
+        "conviction": 0.5615
+    },
+    {
+        "time": "2026-02-15 15:24:44",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 34410.0,
+        "amount": 190009.44932714055,
+        "conviction": 0.8733
+    },
+    {
+        "time": "2026-02-15 15:30:46",
+        "type": "SELL",
+        "market": "KRW-XLM",
+        "price": 265,
+        "amount": 122535.52804906885,
+        "roi": -0.37593984962406013
+    },
+    {
+        "time": "2026-02-15 15:30:46",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 316.0,
+        "amount": 48720.829896627896,
+        "conviction": 0.9101
+    },
+    {
+        "time": "2026-02-15 15:30:46",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2333.0,
+        "amount": 49701.86723200882,
+        "conviction": 0.9015
+    },
+    {
+        "time": "2026-02-15 15:30:46",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1013.0,
+        "amount": 40652.67454303192,
+        "conviction": 0.7335
+    },
+    {
+        "time": "2026-02-15 15:33:42",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1015,
+        "amount": 188569.80957681697,
+        "roi": 2.906005340362434
+    },
+    {
+        "time": "2026-02-15 15:33:43",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 33560,
+        "amount": 185130.5896269862,
+        "roi": -2.4702121476315027
+    },
+    {
+        "time": "2026-02-15 15:33:43",
+        "type": "BUY",
+        "market": "KRW-SOL",
+        "price": 132662.24868175288,
+        "amount": 161729.83953072934,
+        "conviction": 0.6059
+    },
+    {
+        "time": "2026-02-15 15:36:41",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2333,
+        "amount": 57990.5980381615,
+        "roi": 0.16964114267007036
+    },
+    {
+        "time": "2026-02-15 15:36:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 315,
+        "amount": 49390.58559340596,
+        "roi": -0.42435583619079137
+    },
+    {
+        "time": "2026-02-15 15:36:41",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 132700,
+        "amount": 18598.473135302444,
+        "roi": 0.028456715171230346
+    },
+    {
+        "time": "2026-02-15 15:36:42",
+        "type": "BUY",
+        "market": "KRW-AXS",
+        "price": 2153.0,
+        "amount": 156551.39705627802,
+        "conviction": 0.7376
+    },
+    {
+        "time": "2026-02-15 15:39:41",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1015.0000000000001,
+        "amount": 181603.10288695683,
+        "conviction": 0.8561
+    },
+    {
+        "time": "2026-02-15 15:45:44",
+        "type": "SELL",
+        "market": "KRW-AXS",
+        "price": 2151,
+        "amount": 156249.64296324668,
+        "roi": -0.09289363678588017
+    },
+    {
+        "time": "2026-02-15 15:48:44",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 132200,
+        "amount": 142476.82590098417,
+        "roi": -0.3484402581338609
+    },
+    {
+        "time": "2026-02-15 15:48:44",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 992.0000000000001,
+        "amount": 76262.030191116,
+        "conviction": 0.7894
+    },
+    {
+        "time": "2026-02-15 15:48:45",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2331.0,
+        "amount": 74763.87053171905,
+        "conviction": 0.7544
+    },
+    {
+        "time": "2026-02-15 15:51:42",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 982,
+        "amount": 250940.95878516446,
+        "roi": -2.587828653382491
+    },
+    {
+        "time": "2026-02-15 15:54:43",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 989.0,
+        "amount": 253038.27382224664,
+        "conviction": 0.7484
+    },
+    {
+        "time": "2026-02-15 16:00:45",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2330,
+        "amount": 30565.6761455937,
+        "roi": 0.016120427292688182
+    },
+    {
+        "time": "2026-02-15 16:00:45",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 990,
+        "amount": 50170.11985262776,
+        "roi": 0.10111223458038424
+    },
+    {
+        "time": "2026-02-15 16:00:45",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 319.0,
+        "amount": 60507.9377464485,
+        "conviction": 0.8402
+    },
+    {
+        "time": "2026-02-15 16:03:41",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2328,
+        "amount": 22303.337454466895,
+        "roi": -0.06973031985520253
+    },
+    {
+        "time": "2026-02-15 16:03:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 320,
+        "amount": 39249.720533476866,
+        "roi": 0.9528988969840515
+    },
+    {
+        "time": "2026-02-15 16:03:41",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 991,
+        "amount": 53153.54711650724,
+        "roi": 0.20222446916076847
+    },
+    {
+        "time": "2026-02-15 16:03:41",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1013.0,
+        "amount": 140328.56510204205,
+        "conviction": 0.5588
+    },
+    {
+        "time": "2026-02-15 16:06:41",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1000,
+        "amount": 151283.7658959513,
+        "roi": 1.2133468149646107
+    },
+    {
+        "time": "2026-02-15 16:06:41",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 1012.0,
+        "amount": 48828.048713685115,
+        "conviction": 0.8187
+    },
+    {
+        "time": "2026-02-15 16:06:41",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 0.97,
+        "amount": 133636.63367468555,
+        "conviction": 0.5801
+    },
+    {
+        "time": "2026-02-15 16:15:41",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.966,
+        "amount": 132952.53572768395,
+        "roi": -0.4123711340206189
+    },
+    {
+        "time": "2026-02-15 16:15:41",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 324.0,
+        "amount": 38665.19014292466,
+        "conviction": 0.9118
+    },
+    {
+        "time": "2026-02-15 16:15:42",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2350.0,
+        "amount": 52525.419348882,
+        "conviction": 0.899
+    },
+    {
+        "time": "2026-02-15 16:18:42",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 1010,
+        "amount": 188455.98232347393,
+        "roi": -0.2707181231843786
+    },
+    {
+        "time": "2026-02-15 16:18:42",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1535.0,
+        "amount": 166552.34913759015,
+        "conviction": 0.5893
+    },
+    {
+        "time": "2026-02-15 16:21:39",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2363,
+        "amount": 43265.78943151407,
+        "roi": 1.2500079975440492
+    },
+    {
+        "time": "2026-02-15 16:21:39",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 320,
+        "amount": 251844.01770956747,
+        "roi": 0.6153320003438106
+    },
+    {
+        "time": "2026-02-15 16:21:39",
+        "type": "BUY",
+        "market": "KRW-ENSO",
+        "price": 1697.0,
+        "amount": 130033.90112555362,
+        "conviction": 0.5814
+    },
+    {
+        "time": "2026-02-15 16:24:39",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 324.0,
+        "amount": 210699.9422861218,
+        "conviction": 0.9441
+    },
+    {
+        "time": "2026-02-15 16:30:48",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1040.0,
+        "amount": 126046.02185196838,
+        "conviction": 0.6443
+    },
+    {
+        "time": "2026-02-15 16:33:43",
+        "type": "SELL",
+        "market": "KRW-ENSO",
+        "price": 1695,
+        "amount": 129750.83387982467,
+        "roi": -0.11785503830288745
+    },
+    {
+        "time": "2026-02-15 16:33:43",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 324.0,
+        "amount": 41186.4445810251,
+        "conviction": 0.9612
+    },
+    {
+        "time": "2026-02-15 16:33:43",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2361.0,
+        "amount": 37957.61757528558,
+        "conviction": 0.9582
+    },
+    {
+        "time": "2026-02-15 16:36:41",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2380,
+        "amount": 45314.687009810914,
+        "roi": 1.7560839896338067
+    },
+    {
+        "time": "2026-02-15 16:36:41",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1547,
+        "amount": 167686.6165443624,
+        "roi": 0.7817589576547231
+    },
+    {
+        "time": "2026-02-15 16:36:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 322,
+        "amount": 41252.82173797912,
+        "roi": -0.6172839506173013
+    },
+    {
+        "time": "2026-02-15 16:45:36",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1062.0,
+        "amount": 35532.87941938923,
+        "conviction": 0.7929
+    },
+    {
+        "time": "2026-02-15 16:45:36",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1542.2958244405272,
+        "amount": 153940.04844388587,
+        "conviction": 0.7437
+    },
+    {
+        "time": "2026-02-15 16:45:36",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 44.5,
+        "amount": 115489.27394437265,
+        "conviction": 0.6709
+    },
+    {
+        "time": "2026-02-15 16:48:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 324,
+        "amount": 33627.445759324495,
+        "roi": -1.7544265080496297e-14
+    },
+    {
+        "time": "2026-02-15 16:48:41",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1038,
+        "amount": 160373.04887524352,
+        "roi": -0.6469898683402233
+    },
+    {
+        "time": "2026-02-15 16:48:41",
+        "type": "BUY",
+        "market": "KRW-SUI",
+        "price": 1541.0,
+        "amount": 24179.65415770626,
+        "conviction": 0.8925
+    },
+    {
+        "time": "2026-02-15 16:48:42",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 44.5,
+        "amount": 27042.830012402366,
+        "conviction": 0.7138
+    },
+    {
+        "time": "2026-02-15 16:51:40",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1043.0,
+        "amount": 142518.63101628632,
+        "conviction": 0.8001
+    },
+    {
+        "time": "2026-02-15 16:57:38",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2424,
+        "amount": 18022.98903364382,
+        "roi": 3.6808522870417604
+    },
+    {
+        "time": "2026-02-15 16:57:38",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1035,
+        "amount": 141284.13234447534,
+        "roi": -0.7670182166826461
+    },
+    {
+        "time": "2026-02-15 17:00:37",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 322,
+        "amount": 17815.02242799921,
+        "roi": -0.6172839506173013
+    },
+    {
+        "time": "2026-02-15 17:00:37",
+        "type": "SELL",
+        "market": "KRW-DEEP",
+        "price": 44,
+        "amount": 140789.75945310606,
+        "roi": -1.1235955056179934
+    },
+    {
+        "time": "2026-02-15 17:00:38",
+        "type": "BUY",
+        "market": "KRW-SOL",
+        "price": 134200.0,
+        "amount": 158322.776297235,
+        "conviction": 0.8034
+    },
+    {
+        "time": "2026-02-15 17:00:38",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1029.0,
+        "amount": 154952.94918761594,
+        "conviction": 0.7863
+    },
+    {
+        "time": "2026-02-15 17:06:38",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1010,
+        "amount": 151939.8002069445,
+        "roi": -1.84645286686103
+    },
+    {
+        "time": "2026-02-15 17:06:39",
+        "type": "BUY",
+        "market": "KRW-BTC",
+        "price": 104978000.0,
+        "amount": 156441.86306061,
+        "conviction": 0.8165
+    },
+    {
+        "time": "2026-02-15 17:12:43",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2437,
+        "amount": 193828.79035688067,
+        "roi": 4.236896461848502
+    },
+    {
+        "time": "2026-02-15 17:12:43",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 326,
+        "amount": 159551.29773294585,
+        "roi": 0.6172839506172663
+    },
+    {
+        "time": "2026-02-15 17:15:40",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1546,
+        "amount": 20497.397754927853,
+        "roi": 0.2516153988597307
+    },
+    {
+        "time": "2026-02-15 17:15:40",
+        "type": "SELL",
+        "market": "KRW-BTC",
+        "price": 104698000,
+        "amount": 155868.65070799,
+        "roi": -0.2667225513917202
+    },
+    {
+        "time": "2026-02-15 17:15:40",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2436.0,
+        "amount": 189524.22009859295,
+        "conviction": 0.9773
+    },
+    {
+        "time": "2026-02-15 17:15:40",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 327.0,
+        "amount": 171178.78756838394,
+        "conviction": 0.8827
+    },
+    {
+        "time": "2026-02-15 17:15:40",
+        "type": "BUY",
+        "market": "KRW-XLM",
+        "price": 272.0,
+        "amount": 154365.37317725134,
+        "conviction": 0.796
+    },
+    {
+        "time": "2026-02-15 17:18:41",
+        "type": "SELL",
+        "market": "KRW-SUI",
+        "price": 1550,
+        "amount": 158300.52027861803,
+        "roi": 0.5109986211077506
+    },
+    {
+        "time": "2026-02-15 17:18:41",
+        "type": "BUY",
+        "market": "KRW-ADA",
+        "price": 446.0,
+        "amount": 149774.97984408957,
+        "conviction": 0.7699
+    },
+    {
+        "time": "2026-02-15 17:30:40",
+        "type": "SELL",
+        "market": "KRW-ADA",
+        "price": 442,
+        "amount": 148283.34895454082,
+        "roi": -0.8968609865470852
+    },
+    {
+        "time": "2026-02-15 17:30:40",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 325.0,
+        "amount": 18247.757984332497,
+        "conviction": 0.955
+    },
+    {
+        "time": "2026-02-15 17:30:40",
+        "type": "BUY",
+        "market": "KRW-BSV",
+        "price": 26610.0,
+        "amount": 149989.81635336194,
+        "conviction": 0.7625
+    },
+    {
+        "time": "2026-02-15 17:36:40",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 132400,
+        "amount": 30734.699854333307,
+        "roi": -1.3412816691505216
+    },
+    {
+        "time": "2026-02-15 17:36:40",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 318,
+        "amount": 184137.94408298374,
+        "roi": -2.694644193466355
+    },
+    {
+        "time": "2026-02-15 17:39:41",
+        "type": "SELL",
+        "market": "KRW-SOL",
+        "price": 132000,
+        "amount": 124929.82567567647,
+        "roi": -1.639344262295082
+    },
+    {
+        "time": "2026-02-15 17:39:41",
+        "type": "SELL",
+        "market": "KRW-XLM",
+        "price": 265,
+        "amount": 150242.41732084553,
+        "roi": -2.5735294117647056
+    },
+    {
+        "time": "2026-02-15 17:39:41",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2401.0,
+        "amount": 17746.104590876446,
+        "conviction": 0.9681
+    },
+    {
+        "time": "2026-02-15 17:39:41",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 323.0,
+        "amount": 203167.13839668693,
+        "conviction": 0.9623
+    },
+    {
+        "time": "2026-02-15 17:39:41",
+        "type": "BUY",
+        "market": "KRW-ENS",
+        "price": 10230.0,
+        "amount": 118273.1278452174,
+        "conviction": 0.5602
+    },
+    {
+        "time": "2026-02-15 17:42:39",
+        "type": "BUY",
+        "market": "KRW-XLM",
+        "price": 267.0,
+        "amount": 151889.44066247778,
+        "conviction": 0.7189
+    },
+    {
+        "time": "2026-02-15 17:45:38",
+        "type": "SELL",
+        "market": "KRW-ENS",
+        "price": 10210,
+        "amount": 117923.91692541022,
+        "roi": -0.19550342130987292
+    },
+    {
+        "time": "2026-02-15 17:45:39",
+        "type": "SELL",
+        "market": "KRW-XLM",
+        "price": 265,
+        "amount": 150601.01568941682,
+        "roi": -0.7490636704119851
+    },
+    {
+        "time": "2026-02-15 17:45:39",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 323.00000000000006,
+        "amount": 46012.14236462537,
+        "conviction": 0.9557
+    },
+    {
+        "time": "2026-02-15 17:45:39",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2397.0,
+        "amount": 43885.15955697151,
+        "conviction": 0.9071
+    },
+    {
+        "time": "2026-02-15 17:45:39",
+        "type": "BUY",
+        "market": "KRW-BSV",
+        "price": 26370.0,
+        "amount": 42841.36010356425,
+        "conviction": 0.5607
+    },
+    {
+        "time": "2026-02-15 17:48:42",
+        "type": "SELL",
+        "market": "KRW-BSV",
+        "price": 26150,
+        "amount": 189691.13883007702,
+        "roi": -1.5299660818395877
+    },
+    {
+        "time": "2026-02-15 17:54:39",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 143.0,
+        "amount": 247173.31252989802,
+        "conviction": 0.7304
+    },
+    {
+        "time": "2026-02-15 18:00:41",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 142,
+        "amount": 245199.50566014825,
+        "roi": -0.6993006993006993
+    },
+    {
+        "time": "2026-02-15 18:03:39",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1044.0,
+        "amount": 210248.38732435324,
+        "conviction": 0.6321
+    },
+    {
+        "time": "2026-02-15 18:06:39",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1045.0,
+        "amount": 36123.12045431018,
+        "conviction": 0.7791
+    },
+    {
+        "time": "2026-02-15 18:09:41",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1045,
+        "amount": 43317.03567629241,
+        "roi": 0.0817413287746443
+    },
+    {
+        "time": "2026-02-15 18:09:41",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 44.1,
+        "amount": 122988.8039355757,
+        "conviction": 0.5714
+    },
+    {
+        "time": "2026-02-15 18:12:38",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 325,
+        "amount": 250471.5896364598,
+        "roi": 0.6191950464396285
+    },
+    {
+        "time": "2026-02-15 18:12:38",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 44.0,
+        "amount": 27533.46725261946,
+        "conviction": 0.5714
+    },
+    {
+        "time": "2026-02-15 18:15:37",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 329.0,
+        "amount": 221988.1041119446,
+        "conviction": 0.9164
+    },
+    {
+        "time": "2026-02-15 18:18:40",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2387,
+        "amount": 18503.61245370488,
+        "roi": -1.631988376442525
+    },
+    {
+        "time": "2026-02-15 18:18:40",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1050,
+        "amount": 203980.7466651454,
+        "roi": 0.5606013351324177
+    },
+    {
+        "time": "2026-02-15 18:18:40",
+        "type": "SELL",
+        "market": "KRW-DEEP",
+        "price": 43.8,
+        "amount": 149410.97481647032,
+        "roi": -0.6389822891039251
+    },
+    {
+        "time": "2026-02-15 18:18:40",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 328.0,
+        "amount": 23764.889732613,
+        "conviction": 0.9287
+    },
+    {
+        "time": "2026-02-15 18:18:41",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 37.6,
+        "amount": 146505.26622838163,
+        "conviction": 0.5567
+    },
+    {
+        "time": "2026-02-15 18:21:40",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2386,
+        "amount": 44763.48957102823,
+        "roi": -1.673198268199357
+    },
+    {
+        "time": "2026-02-15 18:21:40",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 328,
+        "amount": 42247.76547710946,
+        "roi": -0.27455855906540855
+    },
+    {
+        "time": "2026-02-15 18:21:40",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 1050.0,
+        "amount": 165718.4847644655,
+        "conviction": 0.7716
+    },
+    {
+        "time": "2026-02-15 18:24:39",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 144.0,
+        "amount": 121987.49491046231,
+        "conviction": 0.5687
+    },
+    {
+        "time": "2026-02-15 18:30:38",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 143,
+        "amount": 121019.27970952036,
+        "roi": -0.6944444444444444
+    },
+    {
+        "time": "2026-02-15 18:30:38",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2385.0,
+        "amount": 47418.44642382465,
+        "conviction": 0.856
+    },
+    {
+        "time": "2026-02-15 18:30:39",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 37.5,
+        "amount": 24316.34339377406,
+        "conviction": 0.6304
+    },
+    {
+        "time": "2026-02-15 18:33:40",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 37.3,
+        "amount": 19858.335091101602,
+        "roi": -0.7602153873519025
+    },
+    {
+        "time": "2026-02-15 18:33:40",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 1018,
+        "amount": 160507.42893456202,
+        "roi": -3.0476190476190474
+    },
+    {
+        "time": "2026-02-15 18:33:40",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 34300.0,
+        "amount": 183546.199906335,
+        "conviction": 0.6903
+    },
+    {
+        "time": "2026-02-15 18:36:40",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2396,
+        "amount": 18644.53190766487,
+        "roi": -0.9123432832090451
+    },
+    {
+        "time": "2026-02-15 18:36:40",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 37.3,
+        "amount": 149495.22409146253,
+        "roi": -0.7602153873519025
+    },
+    {
+        "time": "2026-02-15 18:36:40",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 328.0,
+        "amount": 36528.51571653312,
+        "conviction": 0.9633
+    },
+    {
+        "time": "2026-02-15 18:36:40",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 34130.0,
+        "amount": 26235.680732824047,
+        "conviction": 0.8425
+    },
+    {
+        "time": "2026-02-15 18:36:41",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 996.9999999999999,
+        "amount": 154349.92709024745,
+        "conviction": 0.6229
+    },
+    {
+        "time": "2026-02-15 18:45:40",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 994,
+        "amount": 153731.67539995513,
+        "roi": -0.3009027081243731
+    },
+    {
+        "time": "2026-02-15 18:45:40",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2382.0,
+        "amount": 31776.02107696323,
+        "conviction": 0.8634
+    },
+    {
+        "time": "2026-02-15 18:45:40",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 34110.0,
+        "amount": 33248.84950159245,
+        "conviction": 0.772
+    },
+    {
+        "time": "2026-02-15 18:48:41",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 33860,
+        "amount": 19128.30698933732,
+        "roi": -1.1544900282596884
+    },
+    {
+        "time": "2026-02-15 18:51:39",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 33790,
+        "amount": 25805.072025407273,
+        "roi": -1.3588369183371196
+    },
+    {
+        "time": "2026-02-15 18:57:41",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2349,
+        "amount": 240283.93558597722,
+        "roi": -2.666940125364061
+    },
+    {
+        "time": "2026-02-15 18:57:41",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 34500,
+        "amount": 198683.74993081973,
+        "roi": 0.7138243953053971
+    },
+    {
+        "time": "2026-02-15 19:00:40",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2342.0,
+        "amount": 244122.0758755388,
+        "conviction": 0.6879
+    },
+    {
+        "time": "2026-02-15 19:00:40",
+        "type": "BUY",
+        "market": "KRW-COMP",
+        "price": 34510.0,
+        "amount": 227702.7202018695,
+        "conviction": 0.6364
+    },
+    {
+        "time": "2026-02-15 19:03:39",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2342,
+        "amount": 243878.0757997012,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 19:03:39",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 34200,
+        "amount": 27773.890937719883,
+        "roi": -0.8982903506230079
+    },
+    {
+        "time": "2026-02-15 19:03:39",
+        "type": "BUY",
+        "market": "KRW-BIRB",
+        "price": 314.0,
+        "amount": 159135.41839356418,
+        "conviction": 0.5573
+    },
+    {
+        "time": "2026-02-15 19:15:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 332,
+        "amount": 241993.1219470542,
+        "roi": 0.9839254121069865
+    },
+    {
+        "time": "2026-02-15 19:15:41",
+        "type": "SELL",
+        "market": "KRW-COMP",
+        "price": 33870,
+        "amount": 195750.6282849454,
+        "roi": -1.7386264850767892
+    },
+    {
+        "time": "2026-02-15 19:15:41",
+        "type": "SELL",
+        "market": "KRW-BIRB",
+        "price": 311,
+        "amount": 157457.48005881856,
+        "roi": -0.9554140127388535
+    },
+    {
+        "time": "2026-02-15 19:15:41",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 45.5,
+        "amount": 242798.06298537154,
+        "conviction": 0.8918
+    },
+    {
+        "time": "2026-02-15 19:18:40",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 332.0,
+        "amount": 242335.82207239754,
+        "conviction": 0.9455
+    },
+    {
+        "time": "2026-02-15 19:33:41",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 147.0,
+        "amount": 230356.10218016466,
+        "conviction": 0.7305
+    },
+    {
+        "time": "2026-02-15 19:45:41",
+        "type": "SELL",
+        "market": "KRW-DEEP",
+        "price": 44.9,
+        "amount": 58645.21713251904,
+        "roi": -1.3186813186813218
+    },
+    {
+        "time": "2026-02-15 19:45:42",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 152,
+        "amount": 237953.27144332146,
+        "roi": 3.4013605442176873
+    },
+    {
+        "time": "2026-02-15 19:45:42",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.9,
+        "amount": 151428.8007529214,
+        "conviction": 0.5931
+    },
+    {
+        "time": "2026-02-15 19:48:40",
+        "type": "SELL",
+        "market": "KRW-DEEP",
+        "price": 45.4,
+        "amount": 30911.417807984784,
+        "roi": -0.2197802197802229
+    },
+    {
+        "time": "2026-02-15 19:48:40",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.7,
+        "amount": 27647.742485069153,
+        "conviction": 0.6735
+    },
+    {
+        "time": "2026-02-15 19:51:38",
+        "type": "SELL",
+        "market": "KRW-DEEP",
+        "price": 45.2,
+        "amount": 151143.81981668284,
+        "roi": -0.6593406593406531
+    },
+    {
+        "time": "2026-02-15 19:51:39",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 330,
+        "amount": 28160.097105395333,
+        "roi": -0.6024096385542169
+    },
+    {
+        "time": "2026-02-15 20:00:41",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 166.0,
+        "amount": 218513.53079319443,
+        "conviction": 0.9039
+    },
+    {
+        "time": "2026-02-15 20:00:41",
+        "type": "BUY",
+        "market": "KRW-ZK",
+        "price": 34.5,
+        "amount": 197457.51958476732,
+        "conviction": 0.8168
+    },
+    {
+        "time": "2026-02-15 20:03:38",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 325.0,
+        "amount": 4920.263196147001,
+        "conviction": 0.928
+    },
+    {
+        "time": "2026-02-15 20:06:40",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 323,
+        "amount": 212853.16424524214,
+        "roi": -2.663742637813061
+    },
+    {
+        "time": "2026-02-15 20:06:40",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35.4,
+        "amount": 51707.14347315638,
+        "roi": -1.307468946134755
+    },
+    {
+        "time": "2026-02-15 20:06:40",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 165,
+        "amount": 216980.0955822489,
+        "roi": -0.6024096385542169
+    },
+    {
+        "time": "2026-02-15 20:06:41",
+        "type": "SELL",
+        "market": "KRW-ZK",
+        "price": 34.8,
+        "amount": 198975.46649020788,
+        "roi": 1.1594202898550683
+    },
+    {
+        "time": "2026-02-15 20:06:41",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 997.0,
+        "amount": 136910.48292086495,
+        "conviction": 0.6585
+    },
+    {
+        "time": "2026-02-15 20:09:40",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 164.0,
+        "amount": 194349.47097844302,
+        "conviction": 0.9383
+    },
+    {
+        "time": "2026-02-15 20:15:44",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35.3,
+        "amount": 124498.69520075023,
+        "roi": -1.586261406738898
+    },
+    {
+        "time": "2026-02-15 20:15:44",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 154,
+        "amount": 182316.48579012253,
+        "roi": -6.097560975609756
+    },
+    {
+        "time": "2026-02-15 20:15:44",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 330.0,
+        "amount": 235371.1149071815,
+        "conviction": 0.9551
+    },
+    {
+        "time": "2026-02-15 20:15:44",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 999.0000000000001,
+        "amount": 38907.566881540064,
+        "conviction": 0.714
+    },
+    {
+        "time": "2026-02-15 20:15:45",
+        "type": "BUY",
+        "market": "KRW-ZK",
+        "price": 33.8,
+        "amount": 156092.62295393305,
+        "conviction": 0.6334
+    },
+    {
+        "time": "2026-02-15 20:18:41",
+        "type": "SELL",
+        "market": "KRW-ZK",
+        "price": 33.7,
+        "amount": 155475.2574260435,
+        "roi": -0.29585798816566367
+    },
+    {
+        "time": "2026-02-15 20:18:42",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 44.7,
+        "amount": 156447.0298969341,
+        "conviction": 0.6456
+    },
+    {
+        "time": "2026-02-15 20:21:39",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 44.8,
+        "amount": 29028.03357095577,
+        "conviction": 0.8068
+    },
+    {
+        "time": "2026-02-15 20:27:39",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 330,
+        "amount": 16277.896719528946,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 20:30:40",
+        "type": "SELL",
+        "market": "KRW-DEEP",
+        "price": 44.7,
+        "amount": 185224.95114015244,
+        "roi": -0.03493446319998409
+    },
+    {
+        "time": "2026-02-15 20:30:41",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 331.0,
+        "amount": 18437.865928401297,
+        "conviction": 0.9444
+    },
+    {
+        "time": "2026-02-15 20:30:41",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 157.0,
+        "amount": 237514.79807769382,
+        "conviction": 0.72
+    },
+    {
+        "time": "2026-02-15 20:30:41",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 996.0,
+        "amount": 26976.391316370722,
+        "conviction": 0.5715
+    },
+    {
+        "time": "2026-02-15 20:33:40",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 994,
+        "amount": 201931.53918504866,
+        "roi": -0.3258814071127681
+    },
+    {
+        "time": "2026-02-15 20:33:40",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 159,
+        "amount": 240300.0440410759,
+        "roi": 1.2738853503184715
+    },
+    {
+        "time": "2026-02-15 20:45:42",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 332,
+        "amount": 238659.46173031552,
+        "roi": 0.5824658153351887
+    },
+    {
+        "time": "2026-02-15 20:48:40",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 333.0,
+        "amount": 238682.8936483312,
+        "conviction": 0.9414
+    },
+    {
+        "time": "2026-02-15 20:57:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 335,
+        "amount": 239876.42811478602,
+        "roi": 0.6006006006006006
+    },
+    {
+        "time": "2026-02-15 21:00:39",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 338.0,
+        "amount": 239041.13301827107,
+        "conviction": 0.9539
+    },
+    {
+        "time": "2026-02-15 21:06:37",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.1,
+        "amount": 238333.23887259333,
+        "conviction": 0.6459
+    },
+    {
+        "time": "2026-02-15 21:12:39",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 326,
+        "amount": 230324.02632788458,
+        "roi": -3.5502958579881656
+    },
+    {
+        "time": "2026-02-15 21:15:39",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 34.4,
+        "amount": 233346.69091404736,
+        "roi": -1.9943019943020022
+    },
+    {
+        "time": "2026-02-15 21:15:39",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 328.0,
+        "amount": 234927.98107501355,
+        "conviction": 0.9378
+    },
+    {
+        "time": "2026-02-15 21:21:40",
+        "type": "BUY",
+        "market": "KRW-IP",
+        "price": 1705.0,
+        "amount": 235072.2683938992,
+        "conviction": 0.851
+    },
+    {
+        "time": "2026-02-15 21:21:40",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 37.0,
+        "amount": 235072.26840044244,
+        "conviction": 0.7318
+    },
+    {
+        "time": "2026-02-15 21:30:40",
+        "type": "SELL",
+        "market": "KRW-IP",
+        "price": 1706,
+        "amount": 234975.04809768256,
+        "roi": 0.05865102639296188
+    },
+    {
+        "time": "2026-02-15 21:30:40",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 37,
+        "amount": 234837.31360943752,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-15 21:36:42",
+        "type": "BUY",
+        "market": "KRW-ZRO",
+        "price": 2803.0,
+        "amount": 233683.97172214405,
+        "conviction": 0.6587
+    },
+    {
+        "time": "2026-02-15 21:42:42",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 319,
+        "amount": 228253.4188696745,
+        "roi": -2.7439024390243905
+    },
+    {
+        "time": "2026-02-15 21:45:40",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 317.0,
+        "amount": 231379.89907071862,
+        "conviction": 0.6448
+    },
+    {
+        "time": "2026-02-15 21:48:41",
+        "type": "SELL",
+        "market": "KRW-ZRO",
+        "price": 2732,
+        "amount": 227537.10495431026,
+        "roi": -2.5330003567606134
+    },
+    {
+        "time": "2026-02-15 21:48:41",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 318,
+        "amount": 231877.81030789428,
+        "roi": 0.31545741324921134
+    },
+    {
+        "time": "2026-02-15 23:36:44",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 330.0,
+        "amount": 231129.37487707156,
+        "conviction": 0.8061
+    },
+    {
+        "time": "2026-02-15 23:51:40",
+        "type": "BUY",
+        "market": "KRW-USDT",
+        "price": 1478.0,
+        "amount": 231060.0360577279,
+        "conviction": 0.814
+    },
+    {
+        "time": "2026-02-15 23:51:40",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 976.7885231617576,
+        "amount": 231060.03605646908,
+        "conviction": 0.6935
+    },
+    {
+        "time": "2026-02-16 00:00:43",
+        "type": "SELL",
+        "market": "KRW-USDT",
+        "price": 1476,
+        "amount": 230516.73819017134,
+        "roi": -0.13531799729364005
+    },
+    {
+        "time": "2026-02-16 00:18:39",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 332,
+        "amount": 232297.74501524444,
+        "roi": 0.6060606060606061
+    },
+    {
+        "time": "2026-02-16 00:21:42",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 978,
+        "amount": 231115.38078797696,
+        "roi": 0.12402652258044855
+    },
+    {
+        "time": "2026-02-16 00:21:42",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 333.0,
+        "amount": 231333.6020373704,
+        "conviction": 0.8773
+    },
+    {
+        "time": "2026-02-16 00:21:42",
+        "type": "BUY",
+        "market": "KRW-ZKP",
+        "price": 153.0,
+        "amount": 231333.60203962153,
+        "conviction": 0.5967
+    },
+    {
+        "time": "2026-02-16 00:30:42",
+        "type": "SELL",
+        "market": "KRW-ZKP",
+        "price": 151,
+        "amount": 228081.43784989117,
+        "roi": -1.3071895424836601
+    },
+    {
+        "time": "2026-02-16 00:42:38",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 324,
+        "amount": 224856.37366475313,
+        "roi": -2.7027027027027026
+    },
+    {
+        "time": "2026-02-16 00:45:42",
+        "type": "BUY",
+        "market": "KRW-KITE",
+        "price": 328.0,
+        "amount": 228413.32486251742,
+        "conviction": 0.6573
+    },
+    {
+        "time": "2026-02-16 00:51:43",
+        "type": "SELL",
+        "market": "KRW-KITE",
+        "price": 326,
+        "amount": 226793.6535793935,
+        "roi": -0.6097560975609756
+    },
+    {
+        "time": "2026-02-16 01:15:44",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 1.05,
+        "amount": 227927.18052726967,
+        "conviction": 0.6521
+    },
+    {
+        "time": "2026-02-16 01:24:41",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 1.02,
+        "amount": 221193.67104614,
+        "roi": -2.8571428571428594
+    },
+    {
+        "time": "2026-02-16 01:27:40",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 0.9798869665675783,
+        "amount": 225906.1176565078,
+        "conviction": 0.972
+    },
+    {
+        "time": "2026-02-16 01:33:42",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.988,
+        "amount": 227548.85833748753,
+        "roi": 0.8279560509760211
+    },
+    {
+        "time": "2026-02-16 01:36:42",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 0.979,
+        "amount": 226399.18627190433,
+        "conviction": 0.8473
+    },
+    {
+        "time": "2026-02-16 01:48:40",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.988,
+        "amount": 228252.11994475,
+        "roi": 0.919305413687437
+    },
+    {
+        "time": "2026-02-16 01:51:42",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 0.983,
+        "amount": 226955.3443138042,
+        "conviction": 0.7265
+    },
+    {
+        "time": "2026-02-16 01:57:44",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.989,
+        "amount": 228112.39965834905,
+        "roi": 0.6103763987792478
+    },
+    {
+        "time": "2026-02-16 02:00:44",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 0.999,
+        "amount": 227302.63447547585,
+        "conviction": 0.5508
+    },
+    {
+        "time": "2026-02-16 02:03:39",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.998,
+        "amount": 226848.14268733666,
+        "roi": -0.10010010010010019
+    },
+    {
+        "time": "2026-02-16 02:36:40",
+        "type": "BUY",
+        "market": "KRW-BLAST",
+        "price": 0.963,
+        "amount": 227166.21876526275,
+        "conviction": 0.6103
+    },
+    {
+        "time": "2026-02-16 02:45:41",
+        "type": "SELL",
+        "market": "KRW-BLAST",
+        "price": 0.943,
+        "amount": 222225.99543789364,
+        "roi": -2.076843198338527
+    },
+    {
+        "time": "2026-02-16 03:51:43",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 952.0,
+        "amount": 225683.41072822773,
+        "conviction": 0.8714
+    },
+    {
+        "time": "2026-02-16 04:03:44",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 952,
+        "amount": 225457.84010281225,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-16 04:33:41",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 961.0,
+        "amount": 225615.70570962626,
+        "conviction": 0.8543
+    },
+    {
+        "time": "2026-02-16 04:48:43",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 959,
+        "amount": 224921.12845205268,
+        "roi": -0.20811654526534862
+    },
+    {
+        "time": "2026-02-16 05:51:39",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 965.0,
+        "amount": 225407.22834202572,
+        "conviction": 0.6006
+    },
+    {
+        "time": "2026-02-16 06:00:42",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 963,
+        "amount": 224715.23545266132,
+        "roi": -0.20725388601036268
+    },
+    {
+        "time": "2026-02-16 06:27:46",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 977.9999999999999,
+        "amount": 225199.5266714899,
+        "conviction": 0.9226
+    },
+    {
+        "time": "2026-02-16 07:15:45",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2189.0,
+        "amount": 222824.00362199917,
+        "conviction": 0.6067
+    },
+    {
+        "time": "2026-02-16 07:15:45",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 34.9,
+        "amount": 212870.9288057392,
+        "conviction": 0.5796
+    },
+    {
+        "time": "2026-02-16 07:39:48",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35.3,
+        "amount": 215095.5071160458,
+        "roi": 1.146131805157589
+    },
+    {
+        "time": "2026-02-16 07:45:46",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 991,
+        "amount": 23264.550854591773,
+        "roi": 1.3292433537832429
+    },
+    {
+        "time": "2026-02-16 07:45:46",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.645888844498536,
+        "amount": 227057.72786603725,
+        "conviction": 0.7473
+    },
+    {
+        "time": "2026-02-16 07:48:46",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 991,
+        "amount": 204700.3466209862,
+        "roi": 1.3292433537832429
+    },
+    {
+        "time": "2026-02-16 08:00:46",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35.8,
+        "amount": 227811.46203630167,
+        "roi": 0.43233921357314087
+    },
+    {
+        "time": "2026-02-16 08:03:46",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2185,
+        "amount": 222194.52753756114,
+        "roi": -0.1827318410232983
+    },
+    {
+        "time": "2026-02-16 08:03:46",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.9,
+        "amount": 226734.55597172148,
+        "conviction": 0.7796
+    },
+    {
+        "time": "2026-02-16 08:06:48",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2181.0,
+        "amount": 226287.78150993143,
+        "conviction": 0.8807
+    },
+    {
+        "time": "2026-02-16 08:18:46",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35.5,
+        "amount": 223984.16943694215,
+        "roi": -1.1142061281337008
+    },
+    {
+        "time": "2026-02-16 08:18:46",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2173,
+        "amount": 225232.403306128,
+        "roi": -0.36680421824850984
+    },
+    {
+        "time": "2026-02-16 08:48:47",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 38.6,
+        "amount": 225592.25568531966,
+        "conviction": 0.825
+    },
+    {
+        "time": "2026-02-16 08:48:47",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2190.0,
+        "amount": 225592.25568126165,
+        "conviction": 0.7508
+    },
+    {
+        "time": "2026-02-16 08:48:47",
+        "type": "BUY",
+        "market": "KRW-BSV",
+        "price": 25260.0,
+        "amount": 217582.1400330657,
+        "conviction": 0.6416
+    },
+    {
+        "time": "2026-02-16 08:51:46",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2193,
+        "amount": 36691.731613081676,
+        "roi": 0.136986301369863
+    },
+    {
+        "time": "2026-02-16 08:51:47",
+        "type": "SELL",
+        "market": "KRW-BSV",
+        "price": 25180,
+        "amount": 32321.22579445122,
+        "roi": -0.3167062549485352
+    },
+    {
+        "time": "2026-02-16 08:54:47",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 39.7,
+        "amount": 17792.938414624754,
+        "roi": 2.8497409326424905
+    },
+    {
+        "time": "2026-02-16 09:00:51",
+        "type": "BUY",
+        "market": "KRW-ENS",
+        "price": 9935.0,
+        "amount": 168025.22513235253,
+        "conviction": 0.6324
+    },
+    {
+        "time": "2026-02-16 09:03:45",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 41.3,
+        "amount": 30320.411736378403,
+        "roi": 6.994818652849729
+    },
+    {
+        "time": "2026-02-16 09:03:45",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2200,
+        "amount": 68650.82274600373,
+        "roi": 0.502283105022831
+    },
+    {
+        "time": "2026-02-16 09:03:45",
+        "type": "SELL",
+        "market": "KRW-BSV",
+        "price": 25050,
+        "amount": 183403.24007813618,
+        "roi": -0.831353919239905
+    },
+    {
+        "time": "2026-02-16 09:03:46",
+        "type": "SELL",
+        "market": "KRW-ENS",
+        "price": 9950,
+        "amount": 32809.225350789515,
+        "roi": 0.1509813789632612
+    },
+    {
+        "time": "2026-02-16 09:03:46",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.6,
+        "amount": 165441.77053314584,
+        "conviction": 0.8177
+    },
+    {
+        "time": "2026-02-16 09:06:48",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 38,
+        "amount": 176934.92608469058,
+        "roi": -1.5544041450777237
+    },
+    {
+        "time": "2026-02-16 09:06:48",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2197,
+        "amount": 120771.26180758144,
+        "roi": 0.31963470319634707
+    },
+    {
+        "time": "2026-02-16 09:06:48",
+        "type": "BUY",
+        "market": "KRW-0G",
+        "price": 973.0,
+        "amount": 172437.66933043182,
+        "conviction": 0.9758
+    },
+    {
+        "time": "2026-02-16 09:06:48",
+        "type": "BUY",
+        "market": "KRW-ME",
+        "price": 208.0,
+        "amount": 112761.30027037824,
+        "conviction": 0.6381
+    },
+    {
+        "time": "2026-02-16 09:09:47",
+        "type": "BUY",
+        "market": "KRW-MOVE",
+        "price": 37.9,
+        "amount": 162304.04932023963,
+        "conviction": 0.9785
+    },
+    {
+        "time": "2026-02-16 09:12:49",
+        "type": "SELL",
+        "market": "KRW-ENS",
+        "price": 9975,
+        "amount": 20268.65058643093,
+        "roi": 0.40261701056869653
+    },
+    {
+        "time": "2026-02-16 09:12:50",
+        "type": "SELL",
+        "market": "KRW-ME",
+        "price": 206,
+        "amount": 111565.43575217233,
+        "roi": -0.9615384615384616
+    },
+    {
+        "time": "2026-02-16 09:12:50",
+        "type": "BUY",
+        "market": "KRW-TRUMP",
+        "price": 5185.0,
+        "amount": 132123.7032862245,
+        "conviction": 0.9657
+    },
+    {
+        "time": "2026-02-16 09:15:48",
+        "type": "SELL",
+        "market": "KRW-ENS",
+        "price": 9980,
+        "amount": 115430.62565419961,
+        "roi": 0.40261701056869653
+    },
+    {
+        "time": "2026-02-16 09:15:49",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 955,
+        "amount": 25469.311905511495,
+        "roi": -1.9527235354573371
+    },
+    {
+        "time": "2026-02-16 09:15:49",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 37.6,
+        "amount": 15835.325106406308,
+        "roi": -0.7915567282321826
+    },
+    {
+        "time": "2026-02-16 09:15:49",
+        "type": "BUY",
+        "market": "KRW-TRUMP",
+        "price": 5220.0,
+        "amount": 23588.632570274098,
+        "conviction": 0.8994
+    },
+    {
+        "time": "2026-02-16 09:18:46",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35.7,
+        "amount": 17494.38914341014,
+        "roi": 0.28089887640449834
+    },
+    {
+        "time": "2026-02-16 09:18:46",
+        "type": "SELL",
+        "market": "KRW-0G",
+        "price": 952,
+        "amount": 143158.05774091167,
+        "roi": -2.158273381294953
+    },
+    {
+        "time": "2026-02-16 09:18:46",
+        "type": "SELL",
+        "market": "KRW-MOVE",
+        "price": 37.5,
+        "amount": 144637.3571209844,
+        "roi": -1.0554089709762495
+    },
+    {
+        "time": "2026-02-16 09:18:47",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2209.0,
+        "amount": 151744.20141979808,
+        "conviction": 0.8245
+    },
+    {
+        "time": "2026-02-16 09:18:47",
+        "type": "BUY",
+        "market": "KRW-LINK",
+        "price": 13160.0,
+        "amount": 134002.3686732864,
+        "conviction": 0.7281
+    },
+    {
+        "time": "2026-02-16 09:21:48",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35.5,
+        "amount": 147415.7704983614,
+        "roi": -0.28089887640449834
+    },
+    {
+        "time": "2026-02-16 09:21:48",
+        "type": "SELL",
+        "market": "KRW-TRUMP",
+        "price": 5170,
+        "amount": 19123.528434999538,
+        "roi": -0.390574968187653
+    },
+    {
+        "time": "2026-02-16 09:21:49",
+        "type": "BUY",
+        "market": "KRW-LINK",
+        "price": 13100.0,
+        "amount": 28287.895306213497,
+        "conviction": 0.8776
+    },
+    {
+        "time": "2026-02-16 09:21:49",
+        "type": "BUY",
+        "market": "KRW-DEEP",
+        "price": 43.2,
+        "amount": 125112.53073568242,
+        "conviction": 0.6804
+    },
+    {
+        "time": "2026-02-16 09:24:46",
+        "type": "SELL",
+        "market": "KRW-TRUMP",
+        "price": 5155,
+        "amount": 135431.5292016324,
+        "roi": -0.6795771684733756
+    },
+    {
+        "time": "2026-02-16 09:24:47",
+        "type": "SELL",
+        "market": "KRW-DEEP",
+        "price": 43,
+        "amount": 124408.83498582947,
+        "roi": -0.4629629629629695
+    },
+    {
+        "time": "2026-02-16 09:24:47",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5175.0,
+        "amount": 143659.96957224226,
+        "conviction": 0.8086
+    },
+    {
+        "time": "2026-02-16 09:24:47",
+        "type": "BUY",
+        "market": "KRW-WLFI",
+        "price": 150.0,
+        "amount": 132040.67452258948,
+        "conviction": 0.7432
+    },
+    {
+        "time": "2026-02-16 09:30:45",
+        "type": "SELL",
+        "market": "KRW-LINK",
+        "price": 13030,
+        "amount": 19669.94918853325,
+        "roi": -0.9087965363698299
+    },
+    {
+        "time": "2026-02-16 09:33:47",
+        "type": "SELL",
+        "market": "KRW-LINK",
+        "price": 13060,
+        "amount": 141309.29169551088,
+        "roi": -0.6806510180345341
+    },
+    {
+        "time": "2026-02-16 09:33:48",
+        "type": "SELL",
+        "market": "KRW-WLFI",
+        "price": 149,
+        "amount": 131029.30850317443,
+        "roi": -0.6666666666666667
+    },
+    {
+        "time": "2026-02-16 09:33:48",
+        "type": "BUY",
+        "market": "KRW-STORJ",
+        "price": 173.0,
+        "amount": 217467.4256159814,
+        "conviction": 0.8108
+    },
+    {
+        "time": "2026-02-16 09:33:48",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2204.0,
+        "amount": 33922.9564181082,
+        "conviction": 0.6907
+    },
+    {
+        "time": "2026-02-16 09:36:45",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2202,
+        "amount": 184970.45644427094,
+        "roi": -0.2302794161269157
+    },
+    {
+        "time": "2026-02-16 09:36:45",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5175,
+        "amount": 143516.38139675776,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-16 09:39:48",
+        "type": "BUY",
+        "market": "KRW-XRP",
+        "price": 2198.0,
+        "amount": 207478.48285632927,
+        "conviction": 0.5568
+    },
+    {
+        "time": "2026-02-16 09:45:48",
+        "type": "SELL",
+        "market": "KRW-XRP",
+        "price": 2188,
+        "amount": 206328.10938907418,
+        "roi": -0.4549590536851683
+    },
+    {
+        "time": "2026-02-16 09:45:48",
+        "type": "BUY",
+        "market": "KRW-TRUMP",
+        "price": 5255.0,
+        "amount": 219912.01120577534,
+        "conviction": 0.6505
+    },
+    {
+        "time": "2026-02-16 09:51:47",
+        "type": "SELL",
+        "market": "KRW-TRUMP",
+        "price": 5230,
+        "amount": 26318.59261518781,
+        "roi": -0.47573739295908657
+    },
+    {
+        "time": "2026-02-16 09:51:47",
+        "type": "BUY",
+        "market": "KRW-BSV",
+        "price": 25345.08595920703,
+        "amount": 179224.55601580176,
+        "conviction": 0.6497
+    },
+    {
+        "time": "2026-02-16 09:51:47",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5205.0,
+        "amount": 144981.72580918678,
+        "conviction": 0.5601
+    },
+    {
+        "time": "2026-02-16 09:54:48",
+        "type": "SELL",
+        "market": "KRW-STORJ",
+        "price": 173,
+        "amount": 217250.06686973857,
+        "roi": 0.0
+    },
+    {
+        "time": "2026-02-16 09:54:48",
+        "type": "BUY",
+        "market": "KRW-BSV",
+        "price": 25340.0,
+        "amount": 24782.895615580197,
+        "conviction": 0.7989
+    },
+    {
+        "time": "2026-02-16 09:57:47",
+        "type": "SELL",
+        "market": "KRW-TRUMP",
+        "price": 5200,
+        "amount": 56872.10323962285,
+        "roi": -1.0466222645099905
+    },
+    {
+        "time": "2026-02-16 09:57:47",
+        "type": "SELL",
+        "market": "KRW-BSV",
+        "price": 25260,
+        "amount": 49327.608803422045,
+        "roi": -0.3332798548676979
+    },
+    {
+        "time": "2026-02-16 09:57:47",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5180,
+        "amount": 25939.659393941063,
+        "roi": -0.48030739673389233
+    },
+    {
+        "time": "2026-02-16 09:57:48",
+        "type": "BUY",
+        "market": "KRW-WAVES",
+        "price": 853.0,
+        "amount": 177999.93233542348,
+        "conviction": 0.9237
+    },
+    {
+        "time": "2026-02-16 10:00:54",
+        "type": "SELL",
+        "market": "KRW-TRUMP",
+        "price": 5165,
+        "amount": 133448.83280558887,
+        "roi": -1.7126546146527115
+    },
+    {
+        "time": "2026-02-16 10:00:54",
+        "type": "SELL",
+        "market": "KRW-WAVES",
+        "price": 865,
+        "amount": 180323.6207211825,
+        "roi": 1.4067995310668364
+    },
+    {
+        "time": "2026-02-16 10:00:54",
+        "type": "BUY",
+        "market": "KRW-BSV",
+        "price": 25290.0,
+        "amount": 66494.98290651526,
+        "conviction": 0.7989
+    },
+    {
+        "time": "2026-02-16 10:00:54",
+        "type": "BUY",
+        "market": "KRW-SUPER",
+        "price": 207.0,
+        "amount": 191222.98825484127,
+        "conviction": 0.6928
+    },
+    {
+        "time": "2026-02-16 10:00:55",
+        "type": "BUY",
+        "market": "KRW-STORJ",
+        "price": 170.0,
+        "amount": 165084.39560682976,
+        "conviction": 0.5981
+    },
+    {
+        "time": "2026-02-16 10:00:55",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5190.0,
+        "amount": 38756.4109065927,
+        "conviction": 0.5695
+    },
+    {
+        "time": "2026-02-16 10:03:49",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5215,
+        "amount": 157904.32913580362,
+        "roi": 0.2633122628979094
+    },
+    {
+        "time": "2026-02-16 10:03:49",
+        "type": "SELL",
+        "market": "KRW-STORJ",
+        "price": 168,
+        "amount": 162979.16555085062,
+        "roi": -1.1764705882352942
+    },
+    {
+        "time": "2026-02-16 10:09:47",
+        "type": "BUY",
+        "market": "KRW-SUPER",
+        "price": 204.99999999999997,
+        "amount": 31234.47614275469,
+        "conviction": 0.6928
+    },
+    {
+        "time": "2026-02-16 10:12:46",
+        "type": "SELL",
+        "market": "KRW-SUPER",
+        "price": 200,
+        "amount": 215014.04843338102,
+        "roi": -3.2492927915684136
+    },
+    {
+        "time": "2026-02-16 10:18:47",
+        "type": "SELL",
+        "market": "KRW-BSV",
+        "price": 25290,
+        "amount": 48199.274682151874,
+        "roi": -0.15023636889584993
+    },
+    {
+        "time": "2026-02-16 10:18:48",
+        "type": "BUY",
+        "market": "KRW-BERA",
+        "price": 967.0,
+        "amount": 196855.09414643425,
+        "conviction": 0.6676
+    },
+    {
+        "time": "2026-02-16 10:18:48",
+        "type": "BUY",
+        "market": "KRW-ENS",
+        "price": 10110.0,
+        "amount": 189984.62718867374,
+        "conviction": 0.6443
+    },
+    {
+        "time": "2026-02-16 10:18:48",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5249.202597085742,
+        "amount": 164654.12603756116,
+        "conviction": 0.5644
+    },
+    {
+        "time": "2026-02-16 10:21:47",
+        "type": "SELL",
+        "market": "KRW-BSV",
+        "price": 25260,
+        "amount": 45400.582967303904,
+        "roi": -0.2686821146029723
+    },
+    {
+        "time": "2026-02-16 10:21:47",
+        "type": "SELL",
+        "market": "KRW-ENS",
+        "price": 10080,
+        "amount": 33579.18904148546,
+        "roi": -0.2967359050445104
+    },
+    {
+        "time": "2026-02-16 10:21:47",
+        "type": "SELL",
+        "market": "KRW-UNI",
+        "price": 5230,
+        "amount": 35570.358800166345,
+        "roi": -0.36581931694545466
+    },
+    {
+        "time": "2026-02-16 10:21:47",
+        "type": "BUY",
+        "market": "KRW-HBAR",
+        "price": 151.0,
+        "amount": 115026.36929884819,
+        "conviction": 0.5596
+    },
+    {
+        "time": "2026-02-16 10:24:47",
+        "type": "SELL",
+        "market": "KRW-HBAR",
+        "price": 149,
+        "amount": 113389.3951104952,
+        "roi": -1.3245033112582782
+    },
+    {
+        "time": "2026-02-16 10:24:47",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.2,
+        "amount": 113404.95455066924,
+        "conviction": 0.6037
+    },
+    {
+        "time": "2026-02-16 10:30:50",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 957,
+        "amount": 26406.197765007855,
+        "roi": -1.0341261633919339
+    },
+    {
+        "time": "2026-02-16 10:30:50",
+        "type": "BUY",
+        "market": "KRW-MON",
+        "price": 35.1,
+        "amount": 17951.8504787216,
+        "conviction": 0.6037
+    },
+    {
+        "time": "2026-02-16 10:33:44",
+        "type": "SELL",
+        "market": "KRW-BSV",
+        "price": 25230,
+        "amount": 126453.37968008856,
+        "roi": -0.38712786031009466
+    },
+    {
+        "time": "2026-02-16 10:33:44",
+        "type": "SELL",
+        "market": "KRW-BERA",
+        "price": 957,
+        "amount": 168218.444345776,
+        "roi": -1.0341261633919339
+    },
+    {
+        "time": "2026-02-16 10:33:45",
+        "type": "SELL",
+        "market": "KRW-MON",
+        "price": 35,
+        "amount": 130530.7178077422,
+        "roi": -0.5294672062687568
+    },
+    {
+        "time": "2026-02-16 10:33:45",
+        "type": "BUY",
+        "market": "KRW-ENS",
+        "price": 10060.0,
+        "amount": 60091.59464473139,
+        "conviction": 0.7263
+    },
+    {
+        "time": "2026-02-16 10:33:45",
+        "type": "BUY",
+        "market": "KRW-UNI",
+        "price": 5220.0,
+        "amount": 87481.31585292719,
+        "conviction": 0.6498
+    }
+]
