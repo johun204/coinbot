@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Alpha-Pro v37.0</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        :root { --bg: #0b0e11; --card: #151920; --border: #2a2e39; --text: #eaecef; --sub: #848e9c; --up: #0ecb81; --down: #f6465d; --accent: #3498db; --gold: #f1c40f;}
+        body { background: var(--bg); color: var(--text); margin: 0; padding: 12px; font-family: 'Pretendard', sans-serif; -webkit-font-smoothing: antialiased; }
+        .wrapper { max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; gap: 12px; padding-bottom: 40px;}
+        
+        .header { display: flex; justify-content: space-between; align-items: center; padding: 5px 0; }
+        .logo { font-weight: 900; font-size: 1.1rem; color: #fff; display: flex; align-items: center; gap: 6px; }
+        .live-dot { width: 8px; height: 8px; background: var(--up); border-radius: 50%; box-shadow: 0 0 8px var(--up); animation: blink 2s infinite; }
+        #ts { font-size: 0.7rem; color: var(--sub); }
+
+        .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); }
+        .card-header { font-size: 0.85rem; font-weight: 700; color: var(--sub); margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 8px; }
+
+        .equity-wrap { display: flex; justify-content: space-between; align-items: center; }
+        .total-val { font-size: 1.8rem; font-weight: 800; color: #fff; }
+        .sub-val { font-size: 0.8rem; color: var(--sub); margin-top: 4px; }
+        .chart-box { width: 90px; height: 90px; position: relative; }
+
+        .pf-list { list-style: none; padding: 0; margin: 0; }
+        .pf-item { display: grid; grid-template-columns: 3fr 2fr 2fr; gap: 8px; align-items: center; padding: 12px 0; border-bottom: 1px dashed var(--border); font-size: 0.85rem; }
+        .pf-item:last-child { border-bottom: none; }
+        .coin-name { font-weight: 700; font-size: 0.95rem; color: #fff; display: block; }
+        
+        .table-wrap { overflow-x: auto; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.8rem; white-space: nowrap; }
+        th { text-align: left; color: var(--sub); padding: 8px 10px; font-weight: 600; font-size: 0.7rem; border-bottom: 1px solid var(--border); }
+        td { padding: 10px; border-bottom: 1px solid rgba(255,255,255,0.05); vertical-align: middle; }
+        
+        .score-box { display: flex; gap: 4px; margin-top: 4px; flex-wrap: wrap; max-width: 160px;}
+        .s-tag { font-size: 0.6rem; padding: 2px 4px; border-radius: 3px; background: rgba(255,255,255,0.05); color: #ccc; }
+        .dna-tag { background: rgba(241, 196, 15, 0.1); color: var(--gold); border: 1px solid rgba(241, 196, 15, 0.3); }
+        
+        .conv-wrap { width: 60px; }
+        .conv-progress { height: 4px; background: #333; border-radius: 2px; overflow: hidden; margin-top:3px;}
+        .conv-fill { height: 100%; transition: width 0.5s; }
+        .opinion-tag { padding: 3px 6px; border-radius: 4px; font-weight: bold; font-size: 0.7rem; }
+        .op-buy { color: var(--up); background: rgba(14, 203, 129, 0.15); }
+        .op-sell { color: var(--down); background: rgba(246, 70, 93, 0.15); }
+
+        .log-box { height: 160px; overflow-y: auto; background: #050505; padding: 10px; font-size: 0.7rem; color: #aaa; border-radius: 6px; border: 1px solid #222; line-height: 1.5; font-family: monospace;}
+        .btn-more { width: 100%; padding: 12px; background: rgba(255,255,255,0.05); border: 1px solid var(--border); color: var(--sub); margin-top: 8px; cursor: pointer; border-radius: 8px; font-weight: 600; font-size: 0.8rem; }
+        .up { color: var(--up); } .down { color: var(--down); }
+    </style>
+</head>
+<body>
+<div class="wrapper">
+    <div class="header">
+        <div class="logo"><div class="live-dot"></div>Alpha-Pro v37.0</div>
+        <div id="ts">Loading...</div>
+    </div>
+
+    <div class="card">
+        <div class="card-header">PORTFOLIO SUMMARY</div>
+        <div class="equity-wrap">
+            <div>
+                <div class="total-val" id="equity">0 KRW</div>
+                <div class="sub-val">Cash: <span id="cash" style="color:#fff; font-weight:700;">0</span></div>
+            </div>
+            <div class="chart-box"><canvas id="chart"></canvas></div>
+        </div>
+        <ul class="pf-list" id="pf-list"></ul>
+    </div>
+
+    <div class="card" style="padding:0;">
+        <div class="card-header" style="margin:15px 15px 5px 15px; border-bottom:none;">VIRTUAL AI SCAN & DNA WEIGHTS</div>
+        <div class="table-wrap">
+            <table id="dec-table">
+                <thead><tr>
+                    <th style="padding-left:15px;">Asset</th>
+                    <th>Learned Weights (T/M/V/A)</th>
+                    <th>Conviction</th>
+                    <th style="text-align:right; padding-right:15px;">Action</th>
+                </tr></thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="card" style="padding:0;">
+        <div class="card-header" style="margin:15px 15px 5px 15px; border-bottom:none;">VIRTUAL LEARNING LOGS</div>
+        <div style="padding:0 15px 15px 15px;">
+            <div class="log-box" id="logs"></div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header">TRADE HISTORY</div>
+        <div class="table-wrap">
+            <table id="hist-table">
+                <thead><tr><th>Time</th><th>Side</th><th>Market</th><th style="text-align:right;">Amt (KRW)</th></tr></thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        <button class="btn-more" onclick="loadMore()">Load More History</button>
+    </div>
+</div>
+
+<script>
+    const fmt = n => new Intl.NumberFormat('ko-KR').format(Math.round(n));
+    const ctx = document.getElementById('chart').getContext('2d');
+    const chart = new Chart(ctx, {
+        type: 'doughnut',
+        data: { labels: ['Cash'], datasets: [{ data: [100], backgroundColor: ['#333'], borderWidth: 0 }] },
+        options: { responsive: true, maintainAspectRatio: false, cutout: '75%', plugins: { legend: { display: false } } }
+    });
+
+    let histData = [];
+    let histLimit = 15;
+
+    async function update() {
+        const ts = new Date().getTime();
+        try {
+            const [resAnal, resHist] = await Promise.all([
+                fetch(`./data/analysis_result.json?t=${ts}`).then(r=>r.json()),
+                fetch(`./data/trade_history.json?t=${ts}`).then(r=>r.json())
+            ]);
+            
+            if(resAnal.timestamp) document.getElementById('ts').innerText = resAnal.timestamp.substring(11);
+
+            const w = resAnal.portfolio;
+            const totalEq = resAnal.total_equity || w.krw;
+            document.getElementById('equity').innerText = fmt(totalEq) + " KRW";
+            document.getElementById('cash').innerText = fmt(w.krw);
+
+            let labels = ['Cash'];
+            let values = [w.krw];
+            let listHtml = '';
+            
+            for(let m in w.coins) {
+                const info = w.coins[m];
+                const net = info.net_value_krw || 0;
+                labels.push(m.replace('KRW-',''));
+                values.push(net);
+                
+                const roiClass = info.roi >= 0 ? 'up' : 'down';
+                const roiStr = (info.roi > 0 ? '+' : '') + info.roi.toFixed(2) + '%';
+                const hMins = info.holding_mins ? Math.floor(info.holding_mins) + 'm' : '';
+                
+                listHtml += `
+                <li class="pf-item">
+                    <div>
+                        <span class="coin-name">${m.replace('KRW-','')}</span>
+                        <span style="font-size:0.65rem;color:#777;">Hold: ${hMins}</span>
+                    </div>
+                    <div style="text-align:center;"><span class="pf-roi ${roiClass}" style="font-weight:bold;">${roiStr}</span></div>
+                    <div style="text-align:right;"><div>${fmt(net)}</div></div>
+                </li>`;
+            }
+            document.getElementById('pf-list').innerHTML = listHtml || '<li style="padding:20px; text-align:center; color:#555;">No Assets (Cash 100%)</li>';
+            
+            chart.data.labels = labels;
+            chart.data.datasets[0].data = values;
+            chart.data.datasets[0].backgroundColor = ['#333', '#3498db', '#9b59b6', '#f1c40f', '#e74c3c'];
+            chart.update();
+
+            const tbody = document.getElementById('dec-table').querySelector('tbody');
+            let lbHtml = '';
+            
+            if(resAnal.leaderboard) {
+                resAnal.leaderboard.forEach((d) => {
+                    let opClass = d.opinion === 'Buy' ? 'op-buy' : (d.opinion === 'Wait' ? 'op-wait' : 'op-sell');
+                    const snap = d.snapshot || {};
+                    const dna = snap.dna || {trend:0, mom:0, vol:0, accel:0};
+                    const convPct = (d.conviction * 100).toFixed(0);
+                    const barColor = d.conviction > 0.65 ? 'var(--up)' : (d.conviction < 0.35 ? 'var(--down)' : 'var(--accent)');
+
+                    lbHtml += `
+                    <tr>
+                        <td style="padding-left:15px; font-weight:bold; color:#fff;">${d.market.replace('KRW-','')}</td>
+                        <td>
+                            <div style="font-size:0.85rem; font-weight:bold; color:#fff;">Scr: ${d.score.toFixed(1)}</div>
+                            <div class="score-box">
+                                <span class="s-tag dna-tag" title="Trend Weight">T:${(dna.trend*100).toFixed(0)}%</span>
+                                <span class="s-tag dna-tag" title="Momentum Weight">M:${(dna.mom*100).toFixed(0)}%</span>
+                                <span class="s-tag dna-tag" title="Volume Weight">V:${(dna.vol*100).toFixed(0)}%</span>
+                                <span class="s-tag dna-tag" title="Acceleration Weight">A:${(dna.accel*100).toFixed(0)}%</span>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="conv-wrap">
+                                <div style="font-size:0.75rem; color:${barColor}; text-align:right;">${convPct}%</div>
+                                <div class="conv-progress"><div class="conv-fill" style="width:${convPct}%; background:${barColor}"></div></div>
+                            </div>
+                        </td>
+                        <td style="text-align:right; padding-right:15px;"><span class="opinion-tag ${opClass}">${d.opinion}</span></td>
+                    </tr>`;
+                });
+            }
+            tbody.innerHTML = lbHtml;
+
+            if(resAnal.logs) {
+                const logDiv = document.getElementById('logs');
+                logDiv.innerHTML = resAnal.logs.slice().map(l => {
+                    let color = '#777';
+                    if(l.includes('BUY')) color = 'var(--up)';
+                    if(l.includes('SELL')) color = 'var(--down)';
+                    if(l.includes('EVOLVE')) color = 'var(--gold)';
+                    return `<div style="margin-bottom:4px;"><span style="color:#444; margin-right:5px;">${l.substring(12,20)}</span><span style="color:${color}">${l.substring(22)}</span></div>`;
+                }).join('');
+            }
+
+            histData = resHist.sort((a,b) => new Date(b.time) - new Date(a.time));
+            renderHistory();
+
+        } catch(e) { console.error("Update fail:", e); }
+    }
+
+    function renderHistory() {
+        const tbody = document.getElementById('hist-table').querySelector('tbody');
+        const viewData = histData.slice(0, histLimit);
+        
+        if(viewData.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="4" style="text-align:center; padding:20px; color:#444;">No Trades</td></tr>';
+            return;
+        }
+
+        tbody.innerHTML = viewData.map(t => {
+            const cls = t.type === 'BUY' ? 'op-buy' : 'op-sell';
+            return `<tr>
+                <td style="color:#666; font-size:0.7rem;">${t.time.substring(5, 16)}</td>
+                <td><span class="opinion-tag ${cls}">${t.type}</span></td>
+                <td style="font-weight:700;">${t.market.replace('KRW-','')}</td>
+                <td style="text-align:right; font-size:0.8rem;">${fmt(t.amount)}</td>
+            </tr>`;
+        }).join('');
+    }
+
+    window.loadMore = function() { histLimit += 20; renderHistory(); }
+    update();
+    setInterval(update, 30000);
+</script>
+</body>
+</html>
